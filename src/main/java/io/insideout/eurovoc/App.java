@@ -8,18 +8,16 @@ import io.insideout.eurovoc.http.models.Tag;
 import io.redlink.sdk.RedLink;
 import io.redlink.sdk.RedLinkFactory;
 import io.redlink.sdk.analysis.AnalysisRequest;
-import io.redlink.sdk.impl.analysis.model.*;
+import io.redlink.sdk.impl.analysis.model.Enhancements;
+import io.redlink.sdk.impl.analysis.model.EntityAnnotation;
 import org.apache.commons.lang3.text.WordUtils;
 import org.apache.http.client.fluent.Request;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStream;
-import java.io.InputStreamReader;
 import java.net.URLEncoder;
-import java.nio.charset.Charset;
 
 public class App {
 
@@ -42,6 +40,7 @@ public class App {
 
     /**
      * Application starts here.
+     *
      * @param args
      */
     public static void main(String[] args) {
@@ -66,6 +65,7 @@ public class App {
 
     /**
      * Process.
+     *
      * @throws IOException
      */
     public void process() throws Exception {
@@ -82,7 +82,7 @@ public class App {
             logger.debug("[ url :: {} ]", url);
 
             final InputStream is = Request.Get(url)
-                .execute().returnContent().asStream();
+                    .execute().returnContent().asStream();
 
             final ApiResponse response = objectMapper.readValue(is, ApiResponse.class);
             final Result result = response.getResult();
@@ -101,8 +101,7 @@ public class App {
             try {
                 logger.debug("[ title :: {} ]", title);
                 analyse(content);
-            }
-            catch (Exception e) {
+            } catch (Exception e) {
                 logger.error(String.format("Uh oh, I couldn't analyse this one [ %s ]", title), e);
             }
         }
@@ -111,10 +110,11 @@ public class App {
 
     /**
      * Build content to send to the analyzer.
-     * @param title The title.
+     *
+     * @param title        The title.
      * @param descriptions The descriptions.
-     * @param notes The notes.
-     * @param tags The tags.
+     * @param notes        The notes.
+     * @param tags         The tags.
      */
     private String buildContent(final String title, final String descriptions, final String notes, final String tags) {
 
@@ -126,6 +126,7 @@ public class App {
 
     /**
      * Iterate over the result's resources to build a multiline description.
+     *
      * @param result The result containing the resources to parse.
      * @return A string with the found descriptions separated by a double new line.
      */
@@ -159,9 +160,12 @@ public class App {
 
     /**
      * Analyze the specified content.
+     *
      * @param content The content to analyze.
      */
     private void analyse(final String content) {
+
+        logger.debug(content);
 
         final AnalysisRequest request = requestBuilder.setAnalysis(ANALYSIS_NAME).setContent(content).build();
         final Enhancements enhancements = analysis.enhance(request);
@@ -170,7 +174,7 @@ public class App {
 //            logger.info(String.format("Language [ %s ]", language));
 //        }
 
-        for (final EntityAnnotation entityAnnotation : enhancements.getEntityAnnotations() ) {
+        for (final EntityAnnotation entityAnnotation : enhancements.getEntityAnnotations()) {
 
             final String label = entityAnnotation.getEntityLabel();
             final String uri = entityAnnotation.getEntityReference().getUri();
