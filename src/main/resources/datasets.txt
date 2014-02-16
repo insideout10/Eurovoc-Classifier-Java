@@ -1,0 +1,1100 @@
+Annuario Statistico 2012. aci automobile club italia_annuario statistico. aciautopraproprietastatistiche
+Annuario Statistico 2013. aci automobile club italia_annuario statistico 2013. 2013aciautopraproprietastatistiche
+Statistiche parco veicolare. aci automobile club italia_autoritratto. autoimmatricolazioniproprietaradiazionistatistichetrasferimenti
+Auto Trend 1 Semestre 2013. aci automobile club italia_autotrend 1h 2013. aciautomensileprastatisticheveicoli
+Auto Trend 2 Semestre 2013. aci automobile club italia_autotrend 2h 2013. aciautomensileprastatisticheveicoli
+Fringe Benefit. aci automobile club italia_fringe benefit. autobenefitchilometricicostifringeveicoli
+Localizzazione Incidenti Stradali. aci automobile club italia_localizzazione incidenti. aciferitiincidentimortistatistichestrade
+Atto di nomina, retribuzione, compensi e indennita (Direzione Generale). aifa_10 14511.
+Atto di nomina, retribuzione, compensi e indennita / Importi di viaggi di servizi e missioni pagati con fondi pubblici / Dichiarazione dei redditi, situazione patrimoniale, dichiarazione concernente diritti reali su beni immobili e beni mobili, altre cariche o incarichi (Consiglio di amministrazione dell'Agenzia Italiana del Farmaco). aifa_11 14511.
+Elenco Dirigenti AIFA II Fascia. aifa_1 14511.
+Incarichi e consulenze (Risorse Umane). aifa_1 14512.
+Convenzioni Stato/Regioni. aifa_1 14513.
+Liste di Trasparenza. aifa_1 14515.
+Responsabili di Farmacovigilanza. aifa_1 14516.
+Officine autorizzate alla produzione di medicinali e medicinali per sperimentazione clinica. aifa_1 14517.
+Bandi di gara e contratti. aifa_1 14541.
+Provvedimenti Ufficio Valutazione e Autorizzazione. aifa_1 14548.
+Atto di nomina, retribuzione, compensi e indennita (Componenti Collegio dei Revisori dei Conti). aifa_12 14511.
+Retribuzione, compensi e indennita (OIV). aifa_13 14511.
+Stato di attuazione del PTTI. aifa_14 14511.
+Tassi di assenza. aifa_2 14511.
+Incarichi e consulenze (Assessment Europeo). aifa_2 14512.
+Fondo Farmaci Orfani ex. art. 48, co. 19, let. a, Dl 269/03, conv.)in L. 326/03. aifa_2 14513.
+Principi attivi con valori di spesa 2010 2012. aifa_2 14515.
+Segnali di Farmacovigilanza. aifa_2 14516.
+Officine autorizzate alla produzione di Gas medicali . aifa_2 14517.
+Accordi tra PA o soggetti privati. aifa_2 14548.
+Stage e Tirocini. aifa_3 14511.
+Incarichi e consulenze (Affari amministrativi, contabilita e bilancio). aifa_3 14512.
+Progetti Bandi AIFA 2005 2009. aifa_3 14513.
+Liste di Trasparenza. aifa_3 14515.
+Officine autorizzate alla produzione di materie prime farmacologicamente attive. aifa_3 14517.
+Procedimenti di valutazione delle istanze di autorizzazione per Convegni e Congressi. aifa_3 14548.
+Incarichi a dipendenti AIFA. aifa_4 14511.
+Incarichi e consulenze (Affari Legali). aifa_4 14512.
+Progetti finanziati con il Bando Malattie rare 2008 del Ministero della Salute. aifa_4 14513.
+Lista delle sostanze attive - generici. aifa_4 14515.
+Rimborso delle tariffe farmaceutiche. aifa_4 14548.
+Incarichi a personale non a tempo indeterminato. aifa_5 14511.
+Incarichi e consulenze (Valutazione e Autorizzazione). aifa_5 14512.
+Lista dei farmaci valutati per inserimento in Classe C. aifa_5 14515.
+Benessere organizzativo. aifa_6 14511.
+Incarichi e consulenze (Scientific Advice Nazionale). aifa_6 14512.
+Uso speciale dei farmaci ai sensi della Legge 648/96. aifa_6 14515.
+Concorsi AIFA. aifa_7 14511.
+Incarichi e consulenze (Collegio di Conciliazione). aifa_7 14512.
+Elenco medicinali attualmente carenti. aifa_7 14515.
+Concorsi AIFA. aifa_8 14511.
+Incarichi e consulenze. aifa_8 14512.
+Elenco medicinali non registrati in Italia per i quali AIFA ha adottato specifici provvedimenti. aifa_8 14515.
+Concorsi AIFA. aifa_9 14511.
+Incarichi e consulenze (Componenti CTS e CPR). aifa_9 14512.
+Isoipse passo 100 metri. autorita di bacino del fiume arno_10. altimetriageofisicatopografia
+Acquiferi. autorita di bacino del fiume arno_1048. alta priorita
+Aree di ricarica. autorita di bacino del fiume arno_1049. alta priorita
+Complessi idrogeologici. autorita di bacino del fiume arno_1056.
+Densita; di prelievo. autorita di bacino del fiume arno_1057.
+Pozzi. autorita di bacino del fiume arno_1058. alta priorita
+Aree golenali e di naturale esondazione e/o di pertinenza fluviale soggette a divieto di asportazione di materiali inerti. autorita di bacino del fiume arno_106. pae
+Subalvei (interazione fra acque sotterranee e acque superficiali) . autorita di bacino del fiume arno_1060. alta priorita
+Zonazione della disponibilita; idrica. autorita di bacino del fiume arno_1061. alta priorita
+Bacini idrografici (Modello Idrologico Distribuito). autorita di bacino del fiume arno_1062.
+Centroidi delle sezioni significative al fine del Bilancio Idrico. autorita di bacino del fiume arno_1068.
+Sottobacini al fine del Bilancio Idrico. autorita di bacino del fiume arno_1069. alta priorita
+Bacino idrografico lago di Chiusi. autorita di bacino del fiume arno_107. pqa
+Tratti significativi ai fini del bilancio idrico. autorita di bacino del fiume arno_1070. alta priorita
+Tratti classificati al fine del Bilancio Idrico. autorita di bacino del fiume arno_1071. alta priorita
+Prelievo e restituzione da acque superficiali. autorita di bacino del fiume arno_1078. alta priorita
+Geologia del lago di Chiusi. autorita di bacino del fiume arno_108. pqa
+Criticita; delle sezioni e sottobacini. autorita di bacino del fiume arno_1089. alta priorita
+Aree di pertinenza fluviale dell Arno e degli affluenti. autorita di bacino del fiume arno_109. pri
+Stazioni idrometriche. autorita di bacino del fiume arno_1090. alta priorita
+Microhabitats programma per il calcolo del DMV. autorita di bacino del fiume arno_1093.
+Vocazione ittica. autorita di bacino del fiume arno_1094.
+DTM Pixel 100. autorita di bacino del fiume arno_11. altimetriageofisicatopografia
+Aree allagate redatte sulla base degli eventi alluvionali significativi (1966 1999). autorita di bacino del fiume arno_110. pri
+Interventi strutturali per la riduzione del rischio idraulico nel bacino dell Arno. autorita di bacino del fiume arno_111. alta prioritacasse di espansionepri
+Esposizione. autorita di bacino del fiume arno_12. altimetriageofisicatopografia
+Limiti comunali, provinciali, regionali. autorita di bacino del fiume arno_126. aree antropizzate
+Limiti comunali, provinciali, regionali (Gauss Boaga). autorita di bacino del fiume arno_127. aree antropizzate
+Pendenza. autorita di bacino del fiume arno_13. altimetriageofisicatopografia
+Illuminazione ombreggiatura del rilievo con azimut e zenit. autorita di bacino del fiume arno_14. altimetriageofisicatopografia
+Specchi d acqua (Sistema delle Acque). autorita di bacino del fiume arno_146. alta prioritageofisicasistema delle acquetopografia
+Infiltrazione efficace relativa all?anno 2007. autorita di bacino del fiume arno_1526. acque sotterranee
+Quadro unione stralci A3 del bacino dell Arno relativi alla cartografia di piano in scala 1:10000 (Gauss Boaga). autorita di bacino del fiume arno_153. geofisicatopografia
+Infiltrazione efficace relativa al periodo 1993 2006. autorita di bacino del fiume arno_1536. acque sotterranee
+Briglie e sistemazioni idraulico forestali del bacino dell Arno. autorita di bacino del fiume arno_1540. alta prioritaaree antropizzatepqa
+Area di studio per la modellazione idraulica. autorita di bacino del fiume arno_165. pai
+Beni culturali di Firenze a rischio alluvione. autorita di bacino del fiume arno_168. alta prioritaaree antropizzatebeni culturalielementi a rischio
+Aste fluviali vincolate del Lago di Chiusi (norma 8 del piano). autorita di bacino del fiume arno_169. pqa
+Zone vincolate del Lago di Chiusi (norma n. 8 del piano). autorita di bacino del fiume arno_170. pqa
+Ortofotopiano digitale del fiume Arno in scala 1:2000 nei circondari idraulici di Arezzo, Firenze e Pisa - Volo Aprile 2002. autorita di bacino del fiume arno_177. foto aereegeofisicatopografia
+Piano di volo dell  ortofotopiano digitale del fiume Arno in scala 1:2000 - Volo Aprile 2002. autorita di bacino del fiume arno_178. geofisicapiani di volotopografia
+Quadro di unione delle ortofoto del Volo Asta Arno 2002. autorita di bacino del fiume arno_180. geofisicatopografia
+Applicazione norme di piano di bilancio - Acque sotterranee. autorita di bacino del fiume arno_1849. acque sotterraneealta priorita
+Corso d acqua (Sistema delle Acque). autorita di bacino del fiume arno_185. alta prioritageofisicasistema delle acquetopografia
+Stazioni pluviometriche. autorita di bacino del fiume arno_186. alta prioritapluviometria
+Bacini idrografici (Sistema delle Acque). autorita di bacino del fiume arno_187. geofisicasistema delle acquetopografia
+Modello delle pendenze (Sistema delle Acque). autorita di bacino del fiume arno_188. altimetriageofisicasistema delle acquetopografia
+Uso del Suolo a scala di dettaglio. autorita di bacino del fiume arno_1883. alta prioritacopertura vegetaleuso del suolo
+Aree di alimentazione (Sistema delle Acque). autorita di bacino del fiume arno_190. geofisicasistema delle acquetopografia
+Punto di chiusura del catchment (Sistema delle Acque). autorita di bacino del fiume arno_191. geofisicasistema delle acquetopografia
+Comuni. autorita di bacino del fiume arno_1911.
+Punti di localizzazione delle sezioni (Sistema delle Acque). autorita di bacino del fiume arno_195. sistema delle acquetopografia
+Direzione di flusso (Sistema delle Acque). autorita di bacino del fiume arno_196. geofisicasistema delle acquetopografia
+Comuni Distretto. autorita di bacino del fiume arno_1961.
+Limiti Distretto Appennino Settentrionale. autorita di bacino del fiume arno_1967.
+Gerarchia (Sistema delle Acque). autorita di bacino del fiume arno_197. geofisicasistema delle acquetopografia
+Hillshade del DTM geomorfologico (Sistema delle Acque). autorita di bacino del fiume arno_198. alta prioritaaltimetriageofisicasistema delle acquetopografia
+Accumulo di flusso (Sistema delle Acque). autorita di bacino del fiume arno_201. geofisicasistema delle acquetopografia
+Linea di costa (Sistema delle Acque). autorita di bacino del fiume arno_203. alta prioritageofisicasistema delle acquetopografia
+Nodi del network fluviale (Sistema delle Acque). autorita di bacino del fiume arno_204. geofisicasistema delle acquetopografia
+Letto fluviale (Sistema delle Acque). autorita di bacino del fiume arno_206. geofisicasistema delle acquetopografia
+Aree di pertinenza fluviale (Sistema delle Acque). autorita di bacino del fiume arno_207. geofisicasistema delle acquetopografia
+Capisaldi di sezione (Sistema delle Acque). autorita di bacino del fiume arno_208. geofisicasistema delle acquetopografia
+Opere trasversali d alveo - Toscana nel Distretto Appennino Settentrionale. autorita di bacino del fiume arno_2103.
+Zone ed aste vincolate del lago di Chiusi. autorita di bacino del fiume arno_212. pqa
+Carta del bacino idrografico del lago di Chiusi. autorita di bacino del fiume arno_214. pqa
+Carta della geologia del lago di Chiusi. autorita di bacino del fiume arno_215. pqa
+Perimetrazione delle aree a pericolosita; idraulica - Livello di dettaglio in scala 1:10. 000 (PAI). autorita di bacino del fiume arno_216. alta prioritapai
+Perimetrazione delle aree a pericolosita;? idraulica - Livello di sintesi in scala 1:25000 (PAI). autorita di bacino del fiume arno_217. alta prioritapai
+Elementi geomorfologici ed antropici in forma puntuale del Bacino Fiume Arno. autorita di bacino del fiume arno_218. geofisicageologia
+Piano di Gestione. autorita di bacino del fiume arno_2182.
+Piano di Gestione - complessi_idrogeologici. autorita di bacino del fiume arno_2183. idrogeologia
+Dighe e laghi - 100K. autorita di bacino del fiume arno_22. geofisicatopografia
+Perimetrazione delle aree con pericolosita; da frana derivate dall inventario dei fenomeni franosi. Livello di dettaglio in scala 1:10. 000 (PAI). autorita di bacino del fiume arno_220. alta prioritapai
+Battenti idraulici SIMI. autorita di bacino del fiume arno_2217. alta prioritapairischio idraulico
+Perimetrazione delle aree con pericolosita; da processi geomorfologici di versante. Livello di sintesi in scala 1:25. 000 (PF 25). autorita di bacino del fiume arno_222. alta prioritapai
+Densita; di popolazione anno 1981. autorita di bacino del fiume arno_226. aree antropizzate
+Distribuzione del PIL pro capite nell anno 2000. autorita di bacino del fiume arno_227. aree antropizzatepil
+Carta degli interventi proposti dal Progetto pilota e da altri progetti per la riduzione del rischio idraulico nel bacino dell Arno. autorita di bacino del fiume arno_228. infrastrutture
+Carta estensione rilievi LIDAR 2010. autorita di bacino del fiume arno_2318. altimetrialidartelerilevamentotopografia
+Carta della permeabilita; - 200k. autorita di bacino del fiume arno_236. geofisicaidrogeologia
+Schema geo litologico del Bacino dell Arno. autorita di bacino del fiume arno_238. geofisicalitologia
+Limite Bacino Arno (2001). autorita di bacino del fiume arno_2386. alta priorita
+DTM Laser&#45;scanning LiDAR (PST&#45;A). autorita di bacino del fiume arno_2402. altimetrialidartopografia
+Franosita; su base litologica. autorita di bacino del fiume arno_242. geofisica
+Inquadramento delle aree del rilievo Lidar (Ministero dell Ambiente). autorita di bacino del fiume arno_2430. altimetrialidar
+Inquadramento delle aree del rilievo Lidar . autorita di bacino del fiume arno_2431. altimetrialidartopografia
+DSM (Modello digitale della Superficie) maglia 1mx1m in coordinate geoidiche Gauss Boaga. autorita di bacino del fiume arno_2432. altimetrialidartopografia
+DSM (Modello digitale della Superficie) maglia 1mx1m in coordinate geoidiche WGS84. autorita di bacino del fiume arno_2433. altimetrialidartopografia
+DSM (Modello digitale della Superficie) maglia 1mx1m in coordinate ellissoidiche. autorita di bacino del fiume arno_2434. altimetrialidartopografia
+DTM (Modello digitale del Terreno) maglia 3mx3m in coordinate ellissoidiche. autorita di bacino del fiume arno_2435. altimetrialidartopografia
+DTM (Modello digitale del Terreno) maglia 2mx2m in coordinate geoidiche WGS84. autorita di bacino del fiume arno_2437. altimetrialidartopografia
+DTM (Modello digitale del Terreno) maglia 2mx2m in coordinate ellissoidiche. autorita di bacino del fiume arno_2438. altimetrialidartopografia
+Ground del rilievo Lidar. autorita di bacino del fiume arno_2439. altimetrialidartopografia
+Intensita; di risposta del raggio laser del rilievo Lidar. autorita di bacino del fiume arno_2440. lidar
+Over&#45;Ground del rilievo Lidar. autorita di bacino del fiume arno_2441. lidar
+Piano di volo rilievi Lidar. autorita di bacino del fiume arno_2442. altimetrialidar
+DTM (Modello digitale del Terreno) 1mx1m in coordinate ellissoidiche. autorita di bacino del fiume arno_2443. altimetrialidartopografia
+DTM (Modello digitale del Terreno) 1mx1m in coordinate geoidiche Gauss&#45;Boaga. autorita di bacino del fiume arno_2444. alta prioritaaltimetrialidartopografia
+DTM (Modello digitale del Terreno) 1mx1m in coordinate geoidiche WGS84. autorita di bacino del fiume arno_2445. altimetrialidartopografia
+DTM (Modello digitale del Terreno) 2mx2m in coordinate geoidiche Gauss&#45;Boaga. autorita di bacino del fiume arno_2446. altimetrialidartopografia
+DTM (Modello digitale del Terreno) 3mx3m in coordinate geoidiche Gauss&#45;Boaga. autorita di bacino del fiume arno_2447. altimetrialidartopografia
+DTM (Modello digitale del Terreno) 3mx3m in coordinate geoidiche WGS84. autorita di bacino del fiume arno_2448. altimetrialidartopografia
+Elaborazioni dati ERS (ascendente). autorita di bacino del fiume arno_2450. telerilevamento
+Elaborazioni dati ERS (discendente). autorita di bacino del fiume arno_2451. telerilevamento
+Elaborazioni dati Radarsat (ascendente). autorita di bacino del fiume arno_2452. telerilevamento
+Elaborazioni dati RadarSat (discendente). autorita di bacino del fiume arno_2453. telerilevamento
+Elaborazioni dati Envisat (ascendente, attivi). autorita di bacino del fiume arno_2455. telerilevamento
+Elaborazioni dati Envisat (discendente). autorita di bacino del fiume arno_2456. telerilevamento
+Elaborazioni dati Envisat (discendente, attivi). autorita di bacino del fiume arno_2457. telerilevamento
+Elaborazioni dati ERS (ascendente). autorita di bacino del fiume arno_2458. telerilevamento
+Elaborazioni dati ERS (ascendente, attivi). autorita di bacino del fiume arno_2459. telerilevamento
+Elaborazioni dati ERS (discendente). autorita di bacino del fiume arno_2460. telerilevamento
+Elaborazioni dati ERS (discendente, attivi). autorita di bacino del fiume arno_2461. telerilevamento
+Elaborazioni dati RADARSAT (ascendente). autorita di bacino del fiume arno_2462. telerilevamento
+Elaborazioni dati RADARSAT (ascendente, attivi). autorita di bacino del fiume arno_2463. telerilevamento
+Elaborazioni dati RADARSAT (discendente). autorita di bacino del fiume arno_2464. telerilevamento
+Elaborazioni dati RADARSAT (discendente, attivi). autorita di bacino del fiume arno_2465. telerilevamento
+Carta geopedologica Livello I del Bacino del fiume Arno. autorita di bacino del fiume arno_2468. geofisicageologiapedologia
+DSM (Modello digitale della Superficie) maglia 2mx2m in coordinate geoidiche Gauss&#45;Boaga. autorita di bacino del fiume arno_2471. altimetrialidartopografia
+DSM (Modello digitale della Superficie) maglia 2mx2m in coordinate geoidiche WGS84. autorita di bacino del fiume arno_2472. altimetrialidartopografia
+DSM (Modello digitale della Superficie) maglia 2mx2m in coordinate ellissoidiche. autorita di bacino del fiume arno_2473. altimetrialidartopografia
+DSM (Modello digitale della Superficie) maglia 3mx3m in coordinate geoidiche Gauss&#45;Boaga. autorita di bacino del fiume arno_2474. altimetrialidartopografia
+DSM (Modello digitale della Superficie) maglia 3mx3m in coordinate geoidiche WGS84. autorita di bacino del fiume arno_2475. altimetrialidartopografia
+DSM (Modello digitale della Superficie) maglia 3mx3m in coordinate ellissoidiche. autorita di bacino del fiume arno_2476. altimetrialidartopografia
+Estensione rilievi LIDAR eseguiti. autorita di bacino del fiume arno_2482. alta prioritaaltimetrialidarpiani di volo
+Rilievi LIDAR Comune di Firenze. autorita di bacino del fiume arno_2499. altimetrialidar
+Zonazione intrusione salina. autorita di bacino del fiume arno_2570.
+Carta delle aree golenali e di natuale esondazione e/o di pertinenza fluviale soggette a divieto di asportazione di materiali inerti. autorita di bacino del fiume arno_265. pae
+Interventi strutturali per la riduzione del rischio idraulico nel bacino dell Arno. autorita di bacino del fiume arno_266. pri
+Carta delle aree allagate redatte sulla base degli eventi alluvionali significativi (1966 1999). autorita di bacino del fiume arno_267. pri
+Carta delle aree di pertinenza fluviale dell Arno e degli affluenti. autorita di bacino del fiume arno_268. pri
+Aree allagate di Firenze (alluvione del 1966). autorita di bacino del fiume arno_274. alluvioni dell arnoalta priorita
+Faglie (elementi lineari) Rilevamento legge Sullo. autorita di bacino del fiume arno_276. geofisicageologia
+Carta della Permeabilita;. autorita di bacino del fiume arno_277. geofisicaidrogeologia
+Distribuzione delle risorse idriche sotterranee. autorita di bacino del fiume arno_278. geofisicaidrogeologia
+Litologia - 100K. autorita di bacino del fiume arno_279. geofisicalitologia
+Classi litologiche. autorita di bacino del fiume arno_280. geofisicalitologia
+Risorse estrattive. autorita di bacino del fiume arno_281. geofisicalitologia
+Sistema delle acque superficiali del bacino del fiume Arno. autorita di bacino del fiume arno_283. geofisicasistema delle acquetopografia
+Carta della suscettibilita; da frana - raster. autorita di bacino del fiume arno_287. geofisica
+Subsidenza - quantificazione del danno. autorita di bacino del fiume arno_301. geofisicasubsidenza
+Subsidenza - danno indotto. autorita di bacino del fiume arno_302. geofisicasubsidenza
+Subsidenza - vulnerabilita. autorita di bacino del fiume arno_303. geofisicasubsidenza
+Densita; di popolazione anno 1861. autorita di bacino del fiume arno_304. aree antropizzate
+Densita; di popolazione anno 1871. autorita di bacino del fiume arno_305. aree antropizzate
+Densita; di popolazione anno 1881. autorita di bacino del fiume arno_306. aree antropizzate
+Densita; di popolazione anno 1901. autorita di bacino del fiume arno_308. aree antropizzate
+Densita; di popolazione anno 1911. autorita di bacino del fiume arno_309. aree antropizzate
+Densita; di popolazione anno 1921. autorita di bacino del fiume arno_310. aree antropizzate
+Densita; di popolazione anno 1931. autorita di bacino del fiume arno_311. aree antropizzate
+Densita; di popolazione anno 1936. autorita di bacino del fiume arno_312. aree antropizzate
+Densita; di popolazione anno 1951. autorita di bacino del fiume arno_313. aree antropizzate
+Densita; di popolazione anno 1961. autorita di bacino del fiume arno_314. aree antropizzate
+Densita; di popolazione anno 1971. autorita di bacino del fiume arno_315. aree antropizzate
+Censimento delle aree in dissesto da frane - Inquadramento della cartografia per stralci. autorita di bacino del fiume arno_316. geofisica
+Carta della suscettibilita; da frana - Inquadramento della cartografia per stralci. autorita di bacino del fiume arno_317. geofisica
+Sezioni trasversali d alveo tridimensionali (Sistema delle Acque). autorita di bacino del fiume arno_318. geofisicasistema delle acquetopografia
+Limiti provinciali ricadenti all interno dell area dell Autorita; di bacino del Fiume Arno.. autorita di bacino del fiume arno_320. aree antropizzate
+Aree di potenziale esondazione dell Arno (APE). autorita di bacino del fiume arno_321. alta prioritaaree antropizzateelementi a rischio
+Punti di coronamento dell inventario dei fenomeni franosi - Livello di dettaglio in scala 1. 10. 000. autorita di bacino del fiume arno_40. pai
+DTM pixel 10 (Sistema delle Acque). autorita di bacino del fiume arno_44. alta prioritaaltimetriageofisicasistema delle acquetopografia
+Subsidenza - Velocita. autorita di bacino del fiume arno_48. geofisicasubsidenza
+Digitalizzazione fogli 100k - bacino Arno. autorita di bacino del fiume arno_5. geofisicageologia
+Subsidenza - Intensita. autorita di bacino del fiume arno_50. geofisicasubsidenza
+Targhe delle alluvioni storiche verificatesi nella citta; di Firenze. autorita di bacino del fiume arno_509. alluvioni dell arnoalta priorita
+Subisidenza - Esposizione valori. autorita di bacino del fiume arno_51. geofisicasubsidenza
+Tracce delle sezioni trasversali d alveo (Sistema delle acque). autorita di bacino del fiume arno_511. alta prioritasistema delle acquetopografia
+Elementi geomorfologici ed antropici in forma poligonale del Bacino Fiume Arno. autorita di bacino del fiume arno_560. geofisicageologia
+Elementi geomorfologici ed antropici in forma lineare del Bacino Fiume Arno. autorita di bacino del fiume arno_561. geofisicageologia
+Risorse e prospezioni nel territorio dell Autorita; di Bacino del Fiume Arno. autorita di bacino del fiume arno_562. geofisicageologia
+Contatti stratigrafici e tettonici (lineari). autorita di bacino del fiume arno_563. geofisicageologia
+Unita; cartografabili geologiche poligonali del Bacino del Fiume Arno. autorita di bacino del fiume arno_564. geofisicageologia
+Punti di osservazioni geologiche sul Bacino del Fiume Arno. autorita di bacino del fiume arno_565. geofisicageologia
+Livelli guida del Bacino del fiume Arno . autorita di bacino del fiume arno_566. geofisicageologia
+Strutture plicative e superfici assiali (lineare). autorita di bacino del fiume arno_567. geofisicageologia
+Processi geologici particolari (poligonali). autorita di bacino del fiume arno_568. geofisicageologia
+Subsidenza - Esposizione classi. autorita di bacino del fiume arno_57. geofisicasubsidenza
+Carta geologica del Bacino dell Arno 100K. autorita di bacino del fiume arno_571. geofisicageologia
+Carta geologica del Bacino dell Arno 175K. autorita di bacino del fiume arno_572. geofisicageologia
+Formazioni geologiche (elementi areali). Rilevamento legge SULLO. autorita di bacino del fiume arno_7. geofisicageologia
+Pianure alluvionali perimetrate su base geomorfolgica. autorita di bacino del fiume arno_71. geofisicageomorfologia
+DTM Pixel 20 mt. autorita di bacino del fiume arno_74. altimetriageofisicatopografia
+Archi del network fluviale (Sistema delle Acque). autorita di bacino del fiume arno_76. geofisicasistema delle acquetopografia
+Alluvioni di fondovalle. autorita di bacino del fiume arno_8. geofisicageologia
+Reticolo fluviale (Sistema delle Acque). autorita di bacino del fiume arno_82. alta prioritageofisicasistema delle acquetopografia
+Dighe e laghi - 25K. autorita di bacino del fiume arno_83. geofisicatopografia
+Inquadramento stralci A3 relativi alla cartografia in scala 1:25. 000. autorita di bacino del fiume arno_87. geofisicatopografia
+Limiti amministrativi Autorita; di bacino Arno (PAI). autorita di bacino del fiume arno_98. aree antropizzate
+Beni confiscati alla criminalita' organizzata. beni confiscati alla criminalita organizzata. amministrazionebeniconfiscacriminalita
+Flussi di traffico (Tempo reale). biennale della democrazia_5t_fdt.
+Orari Trasporti Pubblici. biennale della democrazia_5t_gtfs.
+Disponibilita Parcheggi (Tempo reale). biennale della democrazia_5t_pk1.
+Perimetro e orari ZTL. biennale della democrazia_5t_ztl.
+Qualita dell aria. biennale della democrazia_aria.
+Dati elettorali. biennale della democrazia_elezioni.
+Impianti fotovoltaici. biennale della democrazia_fotovoltaico.
+Raccolta rifiuti (differenziata). biennale della democrazia_rifiuti.
+Settembre Musica/MiTo. biennale della democrazia_settembremusica.
+Parchi e aree verdi. biennale della democrazia_verde.
+L'Assemblea. camera dei deputati_assemblea. assemblea
+L'Assemblea XVI legislatura. camera dei deputati_assemblea xvi. assembleaxvi
+L'Assemblea XVII legislatura. camera dei deputati_assemblea xvii. assembleaxvii
+Gli Atti di indirizzo e controllo. camera dei deputati_atti indirizzo controllo. atto di controlloatto di indirizzo
+Gli Atti di indirizzo e controllo XVI legislatura. camera dei deputati_atti indirizzo controllo xvi. xvi
+I bollettini delle Giunte e delle Commissioni. camera dei deputati_bollettini giunte commissioni. bollettinocommissionegiunta
+Accesso diretto ai Linked Open Data. camera dei deputati_camera linkedopendata. eldalinked datalodsparql
+Le componenti del Gruppo Misto. camera dei deputati_componenti gruppo misto. componentigruppo misto
+Le componenti del Gruppo Misto XVI legislatura. camera dei deputati_componenti gruppo misto xvi. gruppo mistoxvi
+I Deputati. camera dei deputati_deputati. deputati
+I Deputati XVI legislatura. camera dei deputati_deputati xvi. deputatixvi
+I Dibattiti. camera dei deputati_dibattiti. dibattito
+Le Discussioni. camera dei deputati_discussioni. discussione
+I Documenti parlamentari. camera dei deputati_documenti parlamentari.
+Le elezioni. camera dei deputati_elezioni. elezione
+Le elezioni XVI legislatura. camera dei deputati_elezioni xvi. elezionixvi
+I Governi. camera dei deputati_governi. governomembroministro
+I Governi XVI legislatura. camera dei deputati_governi xvi. governoministroxvi
+I Gruppi parlamentari. camera dei deputati_gruppi parlamentari. componentigruppo parlamentare
+I Gruppi parlamentari XVI legislatura. camera dei deputati_gruppi parlamentari xvi. gruppi parlamentarixvi
+I Deputati e Incarichi Parlamentari della XVII legislatura. camera dei deputati_incarichi deputati xvii. deputatilegislaturaxvii
+Gli incarichi governativi XVI legislatura. camera dei deputati_incarichi governativi xvi. xvi
+Gli incarichi parlamentari. camera dei deputati_incarichi parlamentari.
+Gli incarichi parlamentari XVI legislatura. camera dei deputati_incarichi parlamentari xvi. xvi
+Gli incarichi governativi. camera dei deputati_incarico governo. governoincarico
+Le Leggi. camera dei deputati_leggi. legge
+Le Legislature. camera dei deputati_legislature. legislatura
+Le Legislature XVI legislatura. camera dei deputati_legislature xvi. legislaturaxvi
+I mandati alla Camera. camera dei deputati_mandati camera. mandato
+I mandati al Senato. camera dei deputati_mandati senato. mandatosenatosenatore
+I mandati al Senato XVI legislatura. camera dei deputati_mandati senato xvi. mandato senatoxvi
+I mandati alla Camera XVI legislatura. camera dei deputati_mantati camera xvi. mantadi cameraxvi
+Gli organi di Governo. camera dei deputati_organi governo. organo
+Gli organi di Governo XVI legislatura. camera dei deputati_organi governo xvi. organi di governoxvi
+Gli organi parlamentari. camera dei deputati_organi parlamentari. orano parlamentare
+Gli organi parlamentari XVI legislatura. camera dei deputati_organi parlamentari xvi. organi parlamentarixvi
+Le Persone. camera dei deputati_persone. cameralegislaturanascitapersone
+Le persone XVI legislatura. camera dei deputati_persone xvi. personexvi
+I Presidenti della Camera. camera dei deputati_presidenti camera. camerapresidente
+I Presidenti del Consiglio dei Ministri. camera dei deputati_presidenti consiglio. consigliogovernoministropresidente
+I Presidenti del Consiglio dei Ministri XVI legislatura. camera dei deputati_presidenti consiglio xvi. governoministroxvi
+I Presidenti della Repubblica. camera dei deputati_presidenti repubblica. presidente
+I Progetti di legge e le relazioni. camera dei deputati_progetti di legge. progetto di legge
+Le sedute ed i resoconti stenografico. camera dei deputati_sedute. seduta parlamentare
+I Senatori. camera dei deputati_senatori. senatore
+I Senatori XVI legislatura. camera dei deputati_senatori xvi. senatorexvi
+I sistemi elettorali. camera dei deputati_sistemi elettorali. sistema elettorale
+I sistemi elettorali XVI legislatura. camera dei deputati_sistemi elettorali xvi. sistema elettoralexvi
+Gli uffici parlamentari. camera dei deputati_uffici parlamentari.
+Gli uffici parlamentari XVI legislatura. camera dei deputati_uffici parlamentari xvi. uffici parlamentarixvi
+Linked Open Data CNR. cnr_cnr_lod. linkedlodprogettipubblicazioniricercasemantico
+Anticipazione provvisoria dell'indice dei prezzi al consumo. comune di bari_anticipazione provvisoria dell indice dei prezzi al consumo.
+Anticorruzione 2013. comune di bari_anticorruzione 2013.
+Aree verdi. comune di bari_aree verdi.
+Artisti di strada e writers . comune di bari_artisti di strada e-writers.
+Associazioni Culturali. comune di bari_associazioni culturali.
+Cassonetti AMIU. comune di bari_cassonetti amiu. amiucassonetti
+Censimento in pillole 2013. comune di bari_censimento in pillole 2013.
+Cimiteri. comune di bari_cimiteri. amiucimiteri
+Circoscrizioni. comune di bari_circoscrizioni. circoscrizioni
+Corrispettivi e Compensi. comune di bari_corrispettivi e-compensi.
+Edifici sensibile. comune di bari_edifici sensibile. edifici
+Elenco Professionisti e Collaudatori. comune di bari_elenco professionisti e-collaudatori.
+Elezioni Circoscrizionali 2009. comune di bari_elezioni circoscrizionali 2009.
+Elezioni Comunali 2009 . comune di bari_elezioni comunali 2009.
+Elezioni politiche 2013. comune di bari_elezioni politiche 2013. 2013elezionipolitiche
+Elezioni Regionali 2010. comune di bari_elezioni regionali 2010. 2010elezioniregionali
+Emolumenti e Spese Amministratori. comune di bari_emolumenti e-spese amministratori.
+Farmacie. comune di bari_farmacie. farmacie
+Guide turistiche del Comune di Bari. comune di bari_guide turistiche del comune di bari.
+I fornitori di beni e servizi. comune di bari_i fornitori di beni e-servizi.
+Impianti pubblicitari del Comune di Bari. comune di bari_impianti pubblicitari del comune di bari.
+Microattivita. comune di bari_microattivita. microattivita
+Monumenti. comune di bari_monumenti. monumenti
+nosmoke. comune di bari_nosmoke.
+Numero di abitanti per rione. comune di bari_numero di abitanti per rione.
+Organico Comune di Bari . comune di bari_organico comune di bari.
+Ospedali. comune di bari_ospedali. ospedali
+Parchi (poligoni, punti). comune di bari_parchi poligoni punti. parchipoligonipunti
+Park and Ride del Comune di Bari. comune di bari_park and ride del comune di bari.
+Postazioni Bike Sharing. comune di bari_postazioni bike sharing.
+Pratiche Attivita Economiche. comune di bari_pratiche attivit economiche.
+Pratiche Edilizie. comune di bari_pratiche edilizie.
+prova. comune di bari_prova.
+Rilevazione dei prezzi al consumo. comune di bari_rilevazione dei prezzi al consumo. indiciprezzi al consumo
+Scuole. comune di bari_scuole. scuole
+Scuole del Comune di Bari. comune di bari_scuole del comune di bari.
+Siti raccolta farmaci, pile esauste e umido. comune di bari_siti raccolta farmaci pile esauste e-umido. farmacipile esausteraccoltaumido
+Stradario. comune di bari_stradario.
+Suoli non recintati. comune di bari_suoli non recintati. suolisuolo
+Superfici e siti amiantati. comune di bari_superfici e-siti amiantati. siti amiantatisuperfici
+Ubicazione sezioni elettorali. comune di bari_ubicazione sezioni elettorali.
+Interrogazioni. comune di bologna_1000.
+Delibere e Ordini del Giorno del Consiglio Comunale. comune di bologna_1001.
+Delibere della Giunta Comunale. comune di bologna_1002.
+Domande attualita  a risposta orale. comune di bologna_1003.
+Domande di attualita  a risposta scritta. comune di bologna_1004.
+Interpellanze a risposta orale. comune di bologna_1005.
+Interpellanze a risposta scritta. comune di bologna_1006.
+Atti di quartiere dell'attivita  nel corso del mandato. comune di bologna_1007.
+Popolazione residente per sezione di censimento ed eta . comune di bologna_1008.
+Popolazione residente per sezione di censimento e stato civile. comune di bologna_1011.
+Performance delle Biblioteche Comunali. comune di bologna_1014.
+Performance delle Biblioteche Comunali. comune di bologna_1015.
+Performance delle Biblioteche Comunali. comune di bologna_1016.
+Performance delle Biblioteche Comunali. comune di bologna_1017.
+Performance delle Biblioteche Comunali. comune di bologna_1018.
+Popolazione residente per singolo anno di eta  dal 1986. comune di bologna_1021.
+Sussidi, contributi, incarichi e appalti. comune di bologna_1022.
+Popolazione residente per sezione di censimento e luogo di nascita. comune di bologna_1025.
+Popolazione residente immigrata per sezione di censimento e luogo di immigrazione. comune di bologna_1026.
+Famiglie residenti per sezione di censimento e ampiezza della famiglia. comune di bologna_1027.
+Patrimonio immobiliare. comune di bologna_1028.
+Aree statistiche per quartiere e zona. comune di bologna_1029.
+Popolazione residente per sezione di censimento e luogo di nascita. comune di bologna_103. anagrafeluogo di nascitapopolazioneresidentistatistica
+Popolazione residente per quartiere, zona, sesso, eta , cittadinanza, luogo di nascita e per anno dal 1986. comune di bologna_1032.
+Popolazione residente dalla nascita e immigrata per quartiere zona sesso provenienza e per anno dal 1986. comune di bologna_1034.
+Popolazione residente straniera per quartiere, zona, sesso, cittadinanza, eta  per anno dal 1986. comune di bologna_1036.
+Sussidi, contributi, incarichi e appalti. comune di bologna_1038.
+Popolazione residente straniera per quartiere, zona, sesso, durata dell'immigrazione per anno dal 1986. comune di bologna_1039.
+Famiglie per quartiere, zona, per tipologia, dimensione, numero di componenti minori, numero di anziani e per anno dal 1986. comune di bologna_1041.
+Personaggio maschile in abbigliamento del Basso Medioevo. comune di bologna_1045.
+Personaggio maschile in abbigliamento del Basso Medioevo. comune di bologna_1046.
+Personaggio maschile in abbigliamento del Basso Medioevo. comune di bologna_1047.
+Personaggio maschile in abbigliamento del Basso Medioevo. comune di bologna_1048.
+Personaggio maschile in abbigliamento del Basso Medioevo. comune di bologna_1049.
+Personaggio maschile in abbigliamento del Basso Medioevo. comune di bologna_1050.
+Personaggio maschile in abbigliamento del Basso Medioevo. comune di bologna_1051.
+Personaggio femminile in abbigliamento del Basso Medioevo. comune di bologna_1053.
+Personaggio femminile in abbigliamento del Basso Medioevo. comune di bologna_1054.
+Personaggio femminile in abbigliamento del Basso Medioevo. comune di bologna_1055.
+Famiglie con stranieri per quart., zona, tipologia, dimensione, n. minori, n. stranieri e per anno dal 1986. comune di bologna_1056.
+Popolazione residente per via. comune di bologna_1058.
+Famiglie residenti per via. comune di bologna_1060.
+Autovetture circolanti suddivise per alimentazione. comune di bologna_1064.
+Numero iscritti ai servizi integrativi scolastici della scuola primaria. comune di bologna_1067.
+Veicoli circolanti suddivisi per tipologia. comune di bologna_1069.
+Autovetture e motocicli circolanti suddivisi per normativa ecologica Euro. comune di bologna_1072.
+Autovetture e motocicli circolanti suddivisi per normativa ecologica Euro. comune di bologna_1073.
+Veicoli circolanti suddivisi per anno di immatricolazione. comune di bologna_1074.
+Graduatoria per l'assegnazione di alloggi di Edilizia Residenziale Pubblica. comune di bologna_1077.
+Sussidi, contributi, incarichi e appalti. comune di bologna_1079.
+Procedimenti Amministrativi. comune di bologna_1082.
+Presenze e votazioni. comune di bologna_1084.
+Presenze e votazioni. comune di bologna_1085.
+Presenze e votazioni. comune di bologna_1086.
+Presenze e votazioni. comune di bologna_1088.
+Presenze e votazioni. comune di bologna_1089.
+Sussidi, contributi, incarichi e appalti. comune di bologna_1097.
+IMU. comune di bologna_1099.
+Stradario. comune di bologna_120.
+Stradario. comune di bologna_122. stradariostradetoponomasticavie
+Graduatoria per l'assegnazione di alloggi di Edilizia Residenziale Pubblica. comune di bologna_124.
+Graduatoria per l'assegnazione di alloggi a canone calmierato -CALM. comune di bologna_126.
+Graduatoria per l assegnazione di alloggi a canone calmierato -CALM. comune di bologna_127. alloggicasagraduatoriaservizi abitativi
+Sezioni di Censimento. comune di bologna_128.
+Sezioni di Censimento. comune di bologna_129. cartografiacensimentosezioni
+Domande di iscrizione ai Servizi Educativi. comune di bologna_130.
+Domande di iscrizione ai Servizi Educativi. comune di bologna_131. istruzionescuolaservizi
+Domande di iscrizione ai Servizi Educativi. comune di bologna_132.
+Domande di iscrizione ai Servizi Educativi. comune di bologna_133.
+Domande di iscrizione ai Servizi Educativi. comune di bologna_135.
+Domande di iscrizione ai Servizi Educativi. comune di bologna_136.
+Domande di iscrizione ai Servizi Educativi. comune di bologna_137.
+Domande di iscrizione ai Servizi Educativi. comune di bologna_138.
+Domande di iscrizione ai Servizi Educativi. comune di bologna_139.
+Domande di iscrizione ai Servizi Educativi. comune di bologna_140.
+Graduatoria per l'assegnazione di alloggi a canone calmierato -CALM. comune di bologna_149.
+Opendata index. comune di bologna_155.
+Opendata index. comune di bologna_157. accessi onlineopendata indexservizi
+Aree statistiche. comune di bologna_160.
+Aree statistiche. comune di bologna_161. cartografiacensimentostatistica
+Biblioteche comunali. comune di bologna_162.
+Elenco biblioteche comunali. comune di bologna_164. bibliotechecasi d usoculturainfograficainternet
+Numerazione civica. comune di bologna_166.
+Numerazione civica. comune di bologna_167. cartografiatoponomastica
+Numerazione civica letterale. comune di bologna_168.
+Numerazione civica letterale. comune di bologna_169. cartografiatoponomastica
+Archi stradali. comune di bologna_170.
+Archi stradali. comune di bologna_171. cartografiatoponomastica
+Curva di livello a 10 metri. comune di bologna_172.
+Curva di livello a 10 metri. comune di bologna_173. cartografiactc
+Dividenti di terreno. comune di bologna_174.
+Dividenti di terreno (Divisione permanente di terreno non altrimenti classificato. Divisione non materializzata del terreno per discontinuita di pavimentazione o superficie, ciglio di strada in disuso). comune di bologna_175. cartografiactc
+Edifici. comune di bologna_176.
+Edifici (Muro perimetrale di fabbricato in genere. Dividente volumetrica di fabbricati. Limite di tettoia o pensilina. Limite di baracca). comune di bologna_177. cartografiactc
+Ferrovie. comune di bologna_178.
+Siepi, Filari di alberi. comune di bologna_179.
+Ferrovie (Tronco di ferrovia a scartamento ordinario, elettrificato. Tronco di ferrovia in galleria). comune di bologna_180. cartografiactc
+Siepi, Filari di alberi. comune di bologna_181. cartografiactc
+Idrografia. comune di bologna_182.
+Idrografia (Corso o specchio acqua naturale o artificiale). comune di bologna_183. cartografiactc
+Manufatti vari. comune di bologna_184.
+Manufatti vari (Limite di corpo aggettante. Spallette di ponti di qualsiasi tipo. Imbocchi di gallerie stradali ferroviarie. Sostegno di elettrodotto aereo. Manufatti vari inerenti le acque). comune di bologna_185. cartografiactc
+Marciapiedi. comune di bologna_186.
+Muri e recinzioni. comune di bologna_187.
+Muri e recinzioni (Muro isolato, divisorio o di sostegno. Muri a secco, gabbionata di sostegno. Recinzione non in muratura.). comune di bologna_188. cartografiactc
+Punto quotato isolato al suolo. comune di bologna_190.
+Tratta di condotti per fluidi - Elettrodotti aerei. comune di bologna_191.
+Limite superiore di scarpata. comune di bologna_192.
+Sentieri. comune di bologna_193.
+Strade. comune di bologna_194.
+Suolo. comune di bologna_195.
+Ciglio di massicciata ferroviario. comune di bologna_196.
+Albero isolato. comune di bologna_197.
+Punto quotato isolato al suolo. comune di bologna_198. cartografia
+Tratta di condotti per fluidi - Elettrodotti aerei. comune di bologna_199. cartografiactc
+Limite superiore di scarpata. comune di bologna_200. cartografiactc
+Sentieri (Ciglio o asse di percorso pedonale o ciclabile isolato - Sentiero). comune di bologna_201. cartografiactc
+Strade (Ciglio di sede stradale asfaltata o gradinata. Ciglio di sede stradale non asfaltata. Ciglio di strada in costruzione. Ciglio di strada in galleria). comune di bologna_202. cartografiactc
+Alberi. comune di bologna_206.
+Alberi (Esemplari arborei pubblici). comune di bologna_207. cartografiaverde
+Aree per sgambatura cani. comune di bologna_208.
+Aree per sgambatura cani. comune di bologna_209. cartografiaverde
+Arredo urbano in manutenzione. comune di bologna_210.
+Arredo urbano in manutenzione (Arredi e strutture ludiche). comune di bologna_211. cartografiaverde
+Popolazione arborea. comune di bologna_212.
+Popolazione arborea (Boschi e popolamenti arborei). comune di bologna_213. cartografiaverde
+Siepi. comune di bologna_214.
+Siepi. comune di bologna_215. cartografiaverde
+Aree verdi. comune di bologna_216.
+Aree verdi. comune di bologna_217. cartografiaverde
+Suolo (Limite di zona rocciosa o roccia isolata di grandi dimensioni. Limite di zona sabbiosa. Limite di area boscata o di coltivazione arborea. Ciglio di calanco o frana.). comune di bologna_218. cartografiactc
+Ciglio di massicciata ferroviario. comune di bologna_220. cartografiactc
+Albero isolato. comune di bologna_221. cartografiactc
+Arredo urbano. comune di bologna_222.
+Arredo urbano (Linee descrittive di manufatti di arredo urbano, scale, gradonate e rampe. Limite di portico e galleria). comune di bologna_223. cartografiactc
+Canalette. comune di bologna_224.
+Canalette (Limite salto acqua. Canale di scolo, canaletta irrigua). comune di bologna_225. cartografiactc
+Confine Comune di Bologna. comune di bologna_226.
+Aree coperte dal servizio Iperbole Wireless. comune di bologna_227.
+Aree coperte dal servizio Iperbole Wireless. comune di bologna_228. accessi onlineinternetserviziwifiwifi pubblico
+Confine Comune di Bologna. comune di bologna_230. cartografiactc
+Marciapiedi (Ciglio di marciapiede, elemento o aiuola sparti traffico). comune di bologna_231. cartografiactc
+Graduatoria per l assegnazione di alloggi di Edilizia Residenziale Pubblica. comune di bologna_234. alloggicasagraduatoriaservizi abitativi
+Graduatoria per l'assegnazione di alloggi di Edilizia Residenziale Pubblica. comune di bologna_235.
+Popolazione residente per zona. comune di bologna_240.
+Popolazione residente per zona. comune di bologna_241. popolazioneresidentistatistica
+Redditi per area statistica. comune di bologna_242.
+Redditi per area statistica. comune di bologna_244. contribuentiredditi
+Bacini utenza scuole infanzia. comune di bologna_245.
+Bacini utenza scuole infanzia. comune di bologna_246. cartografiascuolaservizi
+Piste ciclopedonali. comune di bologna_247.
+Piste ciclopedonali. comune di bologna_249. cartografiaciclabilimobilitastrade
+Bilancio di previsione e piano esecutivo di gestione del Comune di Bologna. comune di bologna_256.
+Bilancio di previsione e piano esecutivo di gestione del Comune di Bologna. comune di bologna_257. bilancio
+Elenco scuole infanzia e bacini utenza. comune di bologna_265.
+Elenco scuole infanzia e bacini utenza. comune di bologna_266. istruzionescuolaservizi
+Giulio Cesare Croce. comune di bologna_267.
+Giulio Cesare Croce. comune di bologna_268. croce giulio cesareculturaopuscoli del 500
+Attestazioni ISEE - Servizi abitativi. comune di bologna_269. casaiseeserviziservizi abitativi
+Attestazioni ISEE - Servizi scolastici. comune di bologna_270. iseescuolaservizi
+Gazzette Bolognesi. comune di bologna_271.
+Attestazioni ISEE - Servizi scolastici. comune di bologna_272.
+Attestazioni ISEE - Servizi abitativi. comune di bologna_273.
+Gazzette Bolognesi. comune di bologna_274. culturagazzette bolognesi
+Popolazione residente da 0 a 24 anni per zona. comune di bologna_275. popolazioneresidentistatistica
+Popolazione residente da 0 a 24 anni per zona. comune di bologna_276.
+Permessi di costruire rilasciati. comune di bologna_278.
+Permessi di costruire rilasciati. comune di bologna_279. ediliziatitoliurbanistica
+Autorizzazioni paesaggistiche rilasciate. comune di bologna_280.
+autorizzazioni paesaggistiche rilasciate. comune di bologna_281. autorizzazionipaesaggisticherilascio
+SCIA segnalazioni certificate di inizio attivita  depositate. comune di bologna_282.
+CIL comunicazioni di inizio lavori depositate. comune di bologna_284.
+CIL (comunicazioni di inizio lavori) depositate. comune di bologna_285. cil
+Autorizzazioni sismiche rilasciate. comune di bologna_286.
+Autorizzazioni sismiche rilasciate. comune di bologna_287. rilasciosismica
+Depositi dei progetti esecutivi riguardanti le strutture. comune di bologna_288.
+depositi dei progetti esecutivi riguardanti le strutture. comune di bologna_290. depositosismica
+Agibilita  e schede tecniche descrittive depositate. comune di bologna_291.
+agibilita e schede tecniche descrittive depositate. comune di bologna_292. abitabilitaagibilitaschede tecniche
+Blasone Bolognese. comune di bologna_293.
+Blasone Bolognese. comune di bologna_294. culturafamiglie bolognesisoria di bolognastemmi bolognesi
+Permessi di costruire rilasciati. comune di bologna_298.
+Autorizzazioni paesaggistiche rilasciate. comune di bologna_300.
+SCIA segnalazioni certificate di inizio attivita  depositate. comune di bologna_302.
+CIL comunicazioni di inizio lavori depositate. comune di bologna_304.
+Autorizzazioni sismiche rilasciate. comune di bologna_306.
+Depositi dei progetti esecutivi riguardanti le strutture. comune di bologna_308.
+Agibilita  e schede tecniche descrittive depositate. comune di bologna_310.
+Permessi di costruire rilasciati. comune di bologna_312.
+Autorizzazioni paesaggistiche rilasciate. comune di bologna_314.
+SCIA segnalazioni certificate di inizio attivita  depositate. comune di bologna_316.
+SCIA (segnalazioni certificate di inizio attivita) depositate. comune di bologna_317. diascia
+CIL comunicazioni di inizio lavori depositate. comune di bologna_318.
+Autorizzazioni sismiche rilasciate. comune di bologna_320.
+Depositi dei progetti esecutivi riguardanti le strutture. comune di bologna_322.
+Agibilita  e schede tecniche descrittive depositate. comune di bologna_324.
+Frontier - La linea dello stile. comune di bologna_326.
+Frontier - La linea dello stile. comune di bologna_328. arteculturagraffiti
+Contabilita Analitica. comune di bologna_330. bilancio
+Contabilita  Analitica. comune di bologna_331.
+Modalita  di presentazione ISEE - statistiche. comune di bologna_335.
+Modalita di presentazione ISEE - statistiche. comune di bologna_336. iseeistruzionescuola
+Numero iscritti ai servizi educativi, nidi. comune di bologna_339.
+N. iscritti ai servizi educativi, nidi. comune di bologna_340. istruzionenidoservizi
+Numero iscritti alle scuole dellâinfanzia pubbliche. comune di bologna_342.
+Numero iscritti alle scuole dell infanzia pubbliche. comune di bologna_343. infanziaistruzionescuola
+Numero iscritti alle scuole dellâinfanzia private. comune di bologna_344.
+Numero iscritti alle scuole dell infanzia private. comune di bologna_345. infanziaistruzionescuola
+Numero iscritti ai servizi integrativi scolastici della scuola primaria. comune di bologna_346.
+Numero iscritti ai servizi integrativi scolastici della scuola primaria. comune di bologna_347. istruzionescuolaservizi
+Numero iscritti ai servizi integrativi scolastici della scuola secondaria di 1 grado. comune di bologna_348.
+Numero iscritti ai servizi integrativi scolastici della scuola secondaria di 1 grado. comune di bologna_349. istruzionescuolaservizi
+POC - Interventi per le dotazioni territoriali. comune di bologna_350.
+POC - Interventi per le dotazioni territoriali. comune di bologna_351. poc
+PSC - Situazioni. comune di bologna_352.
+PSC - Situazioni. comune di bologna_353. psc
+POC - Interventi urbanistici, edilizi, di valorizzazione commerciale. comune di bologna_354.
+POC - Interventi urbanistici, edilizi, di valorizzazione commerciale. comune di bologna_355. poc
+RUE - La citta  storica. Ambiti e materiali. comune di bologna_356.
+RUE - La citta storica. Ambiti e materiali. comune di bologna_357. rue
+RUE - Disciplina dei materiali urbani e classificazione del territorio. comune di bologna_358.
+RUE - Disciplina dei materiali urbani e classificazione del territorio. comune di bologna_359. rue
+Popolazione residente da 0 a 2 anni per zona. comune di bologna_360.
+Popolazione residente da 0 a 2 anni per zona. comune di bologna_361. popolazioneresidentistatistica
+Popolazione residente da 3 a 5 anni per zona. comune di bologna_362.
+Popolazione residente da 3 a 5 anni per zona. comune di bologna_363. popolazioneresidentistatistica
+Popolazione residente da 6 a 10 anni per zona. comune di bologna_364.
+Popolazione residente da 6 a 10 anni per zona. comune di bologna_365. popolazioneresidentistatistica
+Popolazione residente da 11 a 13 anni per zona. comune di bologna_366.
+Popolazione residente da 11 a 13 anni per zona. comune di bologna_367. popolazioneresidentistatistica
+Popolazione residente da 14 a 18 anni per zona. comune di bologna_368.
+Popolazione residente da 14 a 18 anni per zona. comune di bologna_369. popolazioneresidentistatistica
+Popolazione residente da 19 a 24 anni per zona. comune di bologna_370.
+Popolazione residente da 19 a 24 anni per zona. comune di bologna_371. popolazioneresidentistatistica
+Popolazione residente di 65 anni e oltre per zona. comune di bologna_372.
+Popolazione residente di 65 anni e oltre per zona. comune di bologna_373. popolazioneresidentistatistica
+Popolazione residente di 80 anni e oltre per zona. comune di bologna_374.
+Popolazione residente di 80 anni e oltre per zona. comune di bologna_375. popolazioneresidentistatistica
+Famiglie residenti nel comune di Bologna per zona. comune di bologna_376.
+Famiglie residenti nel comune di Bologna per zona. comune di bologna_377. famigliepopolazioneresidentistatistica
+3D Santuario della Madonna di San Luca. comune di bologna_380.
+3D Santuario della Madonna di San Luca. comune di bologna_381. 3dedificioesternost. luca sanctuary
+3D Palazzo Re Enzo. comune di bologna_382.
+3D Palazzo Re Enzo. comune di bologna_383. 3d3d palazzibuildingedificioesternopalazzo re enzo
+3D Piazza Santo Stefano. comune di bologna_385.
+3D Piazza Santo Stefano. comune di bologna_386. 3d3d piazzeedificiesternost. stefano church
+Nati vivi residenti per zona. comune di bologna_387.
+Nati vivi residenti per zona. comune di bologna_388. natalitapopolazioneresidentistatistica
+3D Due Torri. comune di bologna_389.
+3D Due Torri. comune di bologna_390. 3d3d monumentibuildingsdue torriedificiothe two towers
+3D Torri della Bologna Medievale. comune di bologna_391.
+3D Torri della Bologna Medievale. comune di bologna_392. 3d3d paesaggiotorritowers
+3D Palazzo de' Notai. comune di bologna_393.
+3D Palazzo de Notai. comune di bologna_394. 3d3d palazzibuildingedificio esternopalazzo de notai
+Morti residenti per zona. comune di bologna_399.
+Morti residenti per zona. comune di bologna_400. mortalitapopolazioneresidentistatistica
+3D Palazzo D'Accursio. comune di bologna_401.
+3D Palazzo D Accursio. comune di bologna_402. 3d3d palazzibuildingd accursio palaceedificio esternopalazzo d accursio
+3D Piazza Maggiore. comune di bologna_403.
+3D Piazza Maggiore. comune di bologna_404. 3d3d piazzebuildingschurchedificio esternopiazza maggiore
+3D Bologna turrita medievale. comune di bologna_424.
+3D Bologna turrita medievale. comune di bologna_425. 3d3d paesaggiobuildingstorritowers
+3D Bologna del paesaggio collinare. comune di bologna_426.
+3D Bologna del paesaggio collinare. comune di bologna_427. 3d3d paesaggiobuildingscolle della guardiamodello del terreno
+Popolazione residente straniera per zona. comune di bologna_428.
+Popolazione residente straniera per zona. comune di bologna_429. popolazioneresidentistatisticastranieristranieri residenti
+Procedimenti Amministrativi. comune di bologna_430.
+Procedimenti Amministrativi. comune di bologna_431. procedimentiservizi
+Iscritti in anagrafe per zona. comune di bologna_432.
+Iscritti in anagrafe per zona. comune di bologna_433. immigratipopolazioneresidentistatistica
+Vista su Piazza Maggiore in 3D. comune di bologna_434.
+Vista su Piazza Maggiore in 3D. comune di bologna_435. 3d3d paesaggiobuildingschurchedificio esternopiazza maggiore
+3D Edifici, portici e torri del centro di Bologna. comune di bologna_436.
+3D Edifici, portici e torri del centro di Bologna. comune di bologna_437. 3d3d paesaggiobuildingsedificioporticiporticoestowers
+Parchimetri. comune di bologna_438.
+Parchimetri. comune di bologna_439. cartografiamobilitaparcheggiparchimetro
+Parcheggi pubblici. comune di bologna_440.
+Parcheggi pubblici. comune di bologna_441. mobilitaparcheggisosta
+Immigrati stranieri per quartiere di destinazione. comune di bologna_442.
+Immigrati stranieri per quartiere di destinazione. comune di bologna_443. immigratipopolazioneresidentistatisticastranieri
+3D modello di terreno dell'area di San Luca alla fine del '700. comune di bologna_444.
+3D modello di terreno dell area di San Luca alla fine del 700. comune di bologna_445. 3d3d paesaggiocolle della guardiadigitalterraindtmguardia s hillmodelmodello del terreno
+Cancellati dall'anagrafe per zona. comune di bologna_446.
+Cancellati dall anagrafe per zona. comune di bologna_448. emigratipopolazioneresidentistatistica
+Emigrati stranieri per quartiere di provenienza. comune di bologna_449.
+Emigrati stranieri per quartiere di provenienza. comune di bologna_450. emigratipopolazioneresidentistatisticastranieri
+3D Portici di San Luca. comune di bologna_462. 3d3d monumentibuildingsedificio esternoportici di san lucaporticoesporzione di portico
+Bilanci d esercizio delle societa ed enti partecipati dal Comune. comune di bologna_476. bilancioenti partecipatisocieta partecipate
+Popolazione residente per sezione di censimento ed eta . comune di bologna_478.
+Popolazione residente per sezione di censimento e stato civile. comune di bologna_479.
+Bilanci d'esercizio delle societa  ed enti partecipati dal Comune. comune di bologna_485.
+3D Portici di San Luca. comune di bologna_486.
+Popolazione residente per sezione di censimento e luogo di nascita. comune di bologna_487.
+Calamaio Universita  del Basso Medioevo. comune di bologna_492.
+Pennino Universita  di Bologna. comune di bologna_493.
+Pergamena Universita  del Basso Medioevo. comune di bologna_494.
+Raschietto Universita  del Basso Medioevo. comune di bologna_495.
+Libro Universita  del Basso Medioevo. comune di bologna_496.
+Aula lezione universitaria del Basso Medioevo. comune di bologna_497.
+Studente Universita  nel Basso Medioevo. comune di bologna_499.
+Studente Universita  nel Basso Medioevo. comune di bologna_500.
+Studente Universita  nel Basso Medioevo. comune di bologna_501.
+Studente Universita  nel Basso Medioevo. comune di bologna_502.
+Studente Universita  nel Basso Medioevo. comune di bologna_503.
+Studente Universita  nel Basso Medioevo. comune di bologna_504.
+Scene di una lezione Universitaria del Basso Medioevo. comune di bologna_505.
+Scene di una lezione Universitaria del Basso Medioevo. comune di bologna_506.
+Scene di una lezione Universitaria del Basso Medioevo. comune di bologna_507.
+Calamaio Universita del Basso Medioevo. comune di bologna_508. 3d3d universitacalamaioinkwellprop
+Pennino Universita di Bologna. comune di bologna_509. 3d3d universitapenninopropquill
+Pergamena Universita del Basso Medioevo. comune di bologna_510. 3d3d universitapergamenapropscroll
+Raschietto Universita del Basso Medioevo. comune di bologna_511. 3d3d universitapropraschiettoscraper
+Libro Universita del Basso Medioevo. comune di bologna_512. 3d3d universitabooklibroprop
+Aula lezione universitaria del Basso Medioevo. comune di bologna_513. 3d3d universitaaula universitariainteriorsinternoroomstanza
+Studente Universita del Basso Medioevo. comune di bologna_514. 3d3d universitacharactermalestudentuomo
+Scene di una lezione Universitaria del Basso Medioevo. comune di bologna_515. 3d3d universitacharacterlessonlezionemalestudentuomo
+Atti di quartiere dell'attivita  nel corso del mandato. comune di bologna_516.
+Interpellanze a risposta scritta. comune di bologna_517.
+Interpellanze a risposta orale. comune di bologna_518.
+Domande di attualita  a risposta scritta. comune di bologna_519.
+Domande attualita  a risposta orale. comune di bologna_520.
+Delibere della Giunta Comunale. comune di bologna_521.
+Delibere e Ordini del Giorno del Consiglio Comunale. comune di bologna_522.
+Interrogazioni. comune di bologna_523.
+Atti di quartiere dell'attivita  nel corso del mandato. comune di bologna_524.
+Interpellanze a risposta scritta. comune di bologna_525.
+Interpellanze a risposta orale. comune di bologna_526.
+Domande di attualita  a risposta scritta. comune di bologna_527.
+Domande attualita  a risposta orale. comune di bologna_528.
+Delibere della Giunta Comunale. comune di bologna_529.
+Delibere e Ordini del Giorno del Consiglio Comunale. comune di bologna_530.
+Interrogazioni. comune di bologna_531.
+Atti di quartiere dell'attivita  nel corso del mandato. comune di bologna_532.
+Interpellanze a risposta scritta. comune di bologna_533.
+Interpellanze a risposta orale. comune di bologna_534.
+Domande di attualita  a risposta scritta. comune di bologna_535.
+Domande attualita  a risposta orale. comune di bologna_536.
+Delibere della Giunta Comunale. comune di bologna_537.
+Delibere e Ordini del Giorno del Consiglio Comunale. comune di bologna_538.
+Interrogazioni. comune di bologna_539.
+Atti di quartiere dell'attivita  nel corso del mandato. comune di bologna_540.
+Interpellanze a risposta scritta. comune di bologna_541.
+Interpellanze a risposta orale. comune di bologna_542.
+Domande di attualita  a risposta scritta. comune di bologna_543.
+Domande attualita  a risposta orale. comune di bologna_544.
+Delibere della Giunta Comunale. comune di bologna_545.
+Delibere e Ordini del Giorno del Consiglio Comunale. comune di bologna_546.
+Interrogazioni. comune di bologna_547.
+Budget e spese della Giunta Comunale. comune di bologna_548.
+Budget e spese della Giunta Comunale. comune di bologna_549.
+Compensi percepiti dalle Elette e dagli Eletti. comune di bologna_550.
+Compensi percepiti dalle Elette e dagli Eletti. comune di bologna_551.
+Compensi percepiti dalle Elette e dagli Eletti. comune di bologna_552.
+Compensi percepiti dalle Elette e dagli Eletti. comune di bologna_553.
+Anagrafica Elette ed Eletti. comune di bologna_554.
+Budget e spese del Consiglio Comunale. comune di bologna_560.
+Budget e spese del Consiglio Comunale. comune di bologna_561.
+Budget e spese del Consiglio Comunale. comune di bologna_562.
+Budget e spese del Consiglio Comunale. comune di bologna_563.
+Popolazione residente immigrata per sezione di censimento e luogo di immigrazione. comune di bologna_564.
+Popolazione residente immigrata per sezione di censimento e luogo di immigrazione. comune di bologna_565. immigratipopolazioneresidentistatistica
+Progetti per l Impresa. comune di bologna_566. finanziamentimamboprogetti
+Progetti per l'Impresa. comune di bologna_573.
+IMU. comune di bologna_576.
+IMU. comune di bologna_577. entrate
+Patrimonio immobiliare. comune di bologna_579.
+Patrimonio immobiliare. comune di bologna_580. fabbricatiimmobiliterreni
+Presenze e votazioni. comune di bologna_581.
+Presenze e votazioni. comune di bologna_582.
+Presenze e votazioni. comune di bologna_583.
+Presenze e votazioni. comune di bologna_584.
+Redditi per area statistica. comune di bologna_586.
+Animazioni 3D Portici di San Luca. comune di bologna_587. 3d3d monumentianimazionebuildingsedificio esternoportici di san lucaporticoesporzione di portico
+Animazioni 3D Portici di San Luca. comune di bologna_589.
+Animazioni 3D Portici di San Luca. comune di bologna_590.
+Animazioni 3D Portici di San Luca. comune di bologna_591.
+Animazioni 3D Portici di San Luca. comune di bologna_592.
+Atti di quartiere dell attivita nel corso del mandato. comune di bologna_594. anagrafe elettiatti di quartiereattivita mandato
+Interpellanze a risposta scritta. comune di bologna_596. anagrafe elettiattivita mandatointerpellanzerisposta scritta
+Interpellanze a risposta orale. comune di bologna_597. anagrafe elettiattivita mandatointerpellanzerisposta orale
+Domande di attualita a risposta scritta. comune di bologna_598. anagrafe elettiattivita mandatodomande attualitarisposta scritta
+Domande attualita a risposta orale. comune di bologna_599. anagrafe elettiattivita mandatodomande attualitarisposta orale
+Delibere della Giunta Comunale. comune di bologna_600. anagrafe elettiattivita mandatodelibere giunta
+Delibere e Ordini del Giorno del Consiglio Comunale. comune di bologna_601. anagrafe elettiattivita mandatodelibere consiglio
+Interrogazioni. comune di bologna_602. anagrafe elettiinterrogazioni
+Budget e spese della Giunta Comunale. comune di bologna_603. anagrafe elettibudget giuntaorganismi politici
+Budget e spese del Consiglio Comunale. comune di bologna_604. anagrafe elettibudget consiglioorganismi politici
+Compensi percepiti dalle Elette e dagli Eletti. comune di bologna_605. anagrafe eletticompensi percepiti
+Anagrafica Elette ed Eletti. comune di bologna_606. anagrafe elettielenco eletteelenco eletti
+Presenze e votazioni. comune di bologna_607. anagrafe elettiattivita mandato
+Sezioni di Censimento. comune di bologna_613.
+Famiglie residenti per sezione di censimento e ampiezza della famiglia. comune di bologna_614.
+Famiglie residenti per sezione di censimento e ampiezza della famiglia. comune di bologna_615. famigliepopolazioneresidentistatistica
+Portici Centro Storico. comune di bologna_620.
+Portici Centro Storico. comune di bologna_621. cartografiapercorso pedonaleporticispazio pubblico
+Graduatoria per l'assegnazione di alloggi di Edilizia Residenziale Pubblica. comune di bologna_625.
+Anagrafica Elette ed Eletti. comune di bologna_626.
+Personaggi in abbigliamento del Basso Medioevo. comune di bologna_629.
+Personaggi in abbigliamento del Basso Medioevo. comune di bologna_630. 3d3d personaggibillboardpeoplepersone
+Commercio su area pubblica. comune di bologna_632.
+Attivita  dei nuclei di quartiere della polizia municipale. comune di bologna_634.
+Attivita dei nuclei di quartiere della polizia municipale. comune di bologna_636. attivitapoliziaquartieri
+Attivita  dei nuclei di quartiere della polizia municipale. comune di bologna_637.
+Commercio in sede fissa. comune di bologna_639.
+Commercio in sede fissa. comune di bologna_640. edicolepratichevicinato
+Pubblici esercizi. comune di bologna_641. dehorspratichepubblici esercizisomministrazione
+Commercio su area pubblica. comune di bologna_642. itinerantiposteggipratiche
+Commercio su area pubblica. comune di bologna_643.
+Pubblici esercizi. comune di bologna_644.
+Commercio in sede fissa. comune di bologna_645.
+Pubblici esercizi. comune di bologna_646.
+Servizi alla persona. comune di bologna_648. barbieriestetistipratiche
+Servizi alla persona. comune di bologna_649.
+Procedimenti ambientali e prevenzione incendi. comune di bologna_651. pareripratichevvf
+Procedimenti ambientali e prevenzione incendi. comune di bologna_652.
+Procedimenti ambientali e prevenzione incendi. comune di bologna_653.
+Procedimenti ambientali e prevenzione incendi. comune di bologna_654.
+Procedimenti ambientali e prevenzione incendi. comune di bologna_655.
+Impianti e servizi. comune di bologna_656. impiantipratichetelefonia
+Impianti e servizi. comune di bologna_657.
+Impianti e servizi. comune di bologna_658.
+Impianti e servizi. comune di bologna_659.
+Impianti e servizi. comune di bologna_660.
+Attivita  ricettive. comune di bologna_662.
+Bilancio ambientale - Indicatori. comune di bologna_663.
+Bilancio ambientale - Indicatori. comune di bologna_664.
+Bilancio ambientale - Indicatori. comune di bologna_665.
+Bilancio ambientale - indicatori. comune di bologna_666. ambientebilanciobilancio ambientaleconsuntivo
+Sezioni di Censimento. comune di bologna_668.
+Sezioni di Censimento. comune di bologna_669.
+Amministrazione aperta. comune di bologna_672. amministrazioneamministrazione apertaaperturatrasparenza
+Elenco scuole infanzia e bacini utenza. comune di bologna_674. bacini utenzacasi d usoinfograficaistruzionescuolaservizi
+Piste ciclopedonali. comune di bologna_679.
+Piste ciclopedonali. comune di bologna_680. cartografiaciclabilimobilitastrade
+Votanti Elezioni Politiche 2013. comune di bologna_682.
+Risultati Elezioni Politiche 2013. comune di bologna_684.
+Risultati Elezioni Politiche 2013. comune di bologna_685.
+Votanti Elezioni Politiche 2013. comune di bologna_686. casi d usoelezioniinfograficavotazioni
+Risultati Elezioni Politiche 2013. comune di bologna_687. elezionirisultati
+Votanti Elezioni Politiche 2013. comune di bologna_688.
+Popolazione residente per zona. comune di bologna_690.
+Amministrazione Aperta. comune di bologna_695. trasparenza
+Violazioni varchi telecontrollati, SIRIO e RITA. comune di bologna_696.
+Popolazione residente da 0 a 24 anni per zona. comune di bologna_701.
+Violazioni varchi telecontrollati, SIRIO e RITA. comune di bologna_702. casi d usoinfograficasiriovarchiztl
+Budget e spese della Giunta Comunale. comune di bologna_711.
+Budget e spese del Consiglio Comunale. comune di bologna_712.
+Compensi percepiti dalle Elette e dagli Eletti. comune di bologna_713.
+Presenze e votazioni. comune di bologna_714.
+Atti di quartiere dell'attivita  nel corso del mandato. comune di bologna_721.
+Interpellanze a risposta scritta. comune di bologna_722.
+Interpellanze a risposta orale. comune di bologna_723.
+Domande di attualita  a risposta scritta. comune di bologna_724.
+Domande attualita  a risposta orale. comune di bologna_725.
+Delibere della Giunta Comunale. comune di bologna_726.
+Delibere e Ordini del Giorno del Consiglio Comunale. comune di bologna_727.
+Interrogazioni. comune di bologna_728.
+Popolazione residente da 0 a 2 anni per zona. comune di bologna_729.
+Popolazione residente da 3 a 5 anni per zona. comune di bologna_730.
+Popolazione residente da 6 a 10 anni per zona. comune di bologna_731.
+Popolazione residente da 11 a 13 anni per zona. comune di bologna_732.
+Popolazione residente da 14 a 18 anni per zona. comune di bologna_733.
+Popolazione residente da 19 a 24 anni per zona. comune di bologna_734.
+Popolazione residente di 65 anni e oltre per zona. comune di bologna_735.
+Popolazione residente di 80 anni e oltre per zona. comune di bologna_736.
+Frontier - La linea dello stile. comune di bologna_737.
+Popolazione residente straniera per zona. comune di bologna_739.
+Elenco scuole. comune di bologna_74. istruzionescuolaservizi
+Graduatoria per l'assegnazione di alloggi a canone calmierato -CALM. comune di bologna_741.
+Famiglie residenti nel comune di Bologna per zona. comune di bologna_744.
+Nati vivi residenti per zona. comune di bologna_747.
+Numero potenziali utenti prossimo bando scuola dell'infanzia. comune di bologna_75.
+Morti residenti per zona. comune di bologna_751.
+Corsie Preferenziali. comune di bologna_756.
+Corsie Preferenziali. comune di bologna_757. cartografiacorsiemobilitapreferenziali
+Varchi telecontrollati SIRIO. comune di bologna_758.
+Varchi telecontrollati SIRIO. comune di bologna_759. cartografiamobilitavarchiztl
+Varchi telecontrollati RITA. comune di bologna_760.
+Varchi telecontrollati RITA. comune di bologna_761. cartografiamobilitavarchiztl
+Iscritti in anagrafe per zona. comune di bologna_762.
+Immigrati stranieri per quartiere di destinazione. comune di bologna_765.
+Aree coperte dal servizio Iperbole Wireless. comune di bologna_769.
+Elenco scuole. comune di bologna_77.
+Cancellati dall'anagrafe per zona. comune di bologna_771.
+Emigrati stranieri per quartiere di provenienza. comune di bologna_775.
+Archi stradali. comune di bologna_777.
+Numerazione civica. comune di bologna_778.
+Numerazione civica letterale. comune di bologna_779.
+Numero potenziali utenti prossimo bando scuola dell infanzia. comune di bologna_78. istruzionescuolaservizi
+Edifici. comune di bologna_780.
+Dividenti di terreno. comune di bologna_781.
+Ferrovie. comune di bologna_782.
+Idrografia. comune di bologna_783.
+Muri e recinzioni. comune di bologna_784.
+Strade. comune di bologna_785.
+Canalette. comune di bologna_786.
+Centro in bici Bologna noleggio biciclette. comune di bologna_787.
+Centro in bici Bologna: noleggio biciclette. comune di bologna_788. cartografiaciclopedonalimobilitanoleggio
+Orti comunali a Bologna. comune di bologna_789.
+Orti comunali a Bologna. comune di bologna_791. cartografiaorti comunali
+Centro in bici Bologna (noleggio biciclette). comune di bologna_792. cartografianoleggio biciclette
+Dati anagrafici e di reddito riferiti alle sezioni elettorali. comune di bologna_795. anagraferedditisezioni elettorali
+Dati anagrafici e di reddito riferiti alle sezioni elettorali. comune di bologna_796.
+Numero bambini iscritti alla scuole dell infanzia pubbliche. comune di bologna_80. istruzionescuolaservizi
+Postazioni Taxi. comune di bologna_802.
+Postazioni Taxi. comune di bologna_803. cartografiacasi d usoinfograficamobilitataxi
+Amministrazione Aperta. comune di bologna_808.
+Sussidi, contributi, incarichi e appalti. comune di bologna_809. appalticontributiincarichisussidi
+Rendiconto del Comune di Bologna. comune di bologna_811.
+Rendiconto del Comune di Bologna. comune di bologna_812. bilanciorendiconto
+Numero bambini iscritti alla scuole dell infanzia private convenzionate. comune di bologna_82. istruzionescuolaservizi
+Biblioteche comunali. comune di bologna_828.
+Anagrafica Elette ed Eletti. comune di bologna_829.
+Presenze e votazioni. comune di bologna_830.
+Budget e spese del Consiglio Comunale. comune di bologna_831.
+Budget e spese della Giunta Comunale. comune di bologna_832.
+Atti di quartiere dell'attivita  nel corso del mandato. comune di bologna_833.
+Interpellanze a risposta scritta. comune di bologna_834.
+Interpellanze a risposta orale. comune di bologna_835.
+Domande di attualita  a risposta scritta. comune di bologna_836.
+Domande attualita  a risposta orale. comune di bologna_837.
+Delibere della Giunta Comunale. comune di bologna_838.
+Delibere e Ordini del Giorno del Consiglio Comunale. comune di bologna_839.
+Interrogazioni. comune di bologna_840.
+Compensi percepiti dalle Elette e dagli Eletti. comune di bologna_841.
+Modalita  di presentazione ISEE - statistiche. comune di bologna_853.
+Elenco scuole. comune di bologna_858.
+Elenco scuole infanzia e bacini utenza. comune di bologna_859.
+Domande di iscrizione ai Servizi Educativi. comune di bologna_860.
+Elenco scuole. comune di bologna_862.
+Immobili comunali inutilizzati commercializzabili. comune di bologna_866. cartografiapatrimonio comunale
+Immobili comunali inutilizzati da valorizzare. comune di bologna_869. cartografiapatrimonio comunale
+Immobili comunali inutilizzati inutilizzabili. comune di bologna_870. cartografiapatrimonio comunale
+Immobili comunali inutilizzati inutilizzabili. comune di bologna_871.
+Immobili comunali inutilizzati inutilizzabili. comune di bologna_872.
+Immobili comunali inutilizzati da valorizzare. comune di bologna_873.
+Immobili comunali inutilizzati commercializzabili. comune di bologna_874.
+Immobili comunali inutilizzati commercializzabili. comune di bologna_875.
+Immobili comunali inutilizzati da valorizzare. comune di bologna_876.
+Colonnine di ricarica per veicoli elettrici. comune di bologna_882.
+Impianti semaforici con dispositivi acustici. comune di bologna_883.
+Numero iscritti ai servizi educativi, nidi. comune di bologna_887.
+Numero iscritti alle scuole dellâinfanzia pubbliche. comune di bologna_888.
+Numero iscritti alle scuole dellâinfanzia private. comune di bologna_889.
+Presenze e votazioni. comune di bologna_894.
+Compensi percepiti dalle Elette e dagli Eletti. comune di bologna_895.
+Budget e spese del Consiglio Comunale. comune di bologna_896.
+Budget e spese della Giunta Comunale. comune di bologna_897.
+Atti di quartiere dell'attivita  nel corso del mandato. comune di bologna_898.
+Interpellanze a risposta scritta. comune di bologna_899.
+Popolazione residente per sezione di censimento ed eta. comune di bologna_90. anagrafepopolazioneresidentistatistica
+Interpellanze a risposta orale. comune di bologna_900.
+Domande di attualita  a risposta scritta. comune di bologna_901.
+Domande attualita  a risposta orale. comune di bologna_902.
+Delibere della Giunta Comunale. comune di bologna_903.
+Delibere e Ordini del Giorno del Consiglio Comunale. comune di bologna_904.
+Interrogazioni. comune di bologna_905.
+Contabilita  Analitica. comune di bologna_909.
+Bacini utenza scuole infanzia. comune di bologna_915.
+Budget e spese del Consiglio Comunale. comune di bologna_916.
+Bilancio di previsione e piano esecutivo di gestione del Comune di Bologna. comune di bologna_931.
+Bilancio di previsione e piano esecutivo di gestione del Comune di Bologna. comune di bologna_932.
+Bilancio di previsione e piano esecutivo di gestione del Comune di Bologna. comune di bologna_933.
+Bilancio di previsione e piano esecutivo di gestione del Comune di Bologna. comune di bologna_934.
+Redditi per area statistica. comune di bologna_945.
+Anagrafica Elette ed Eletti. comune di bologna_961.
+Sussidi, contributi, incarichi e appalti. comune di bologna_968.
+Popolazione residente per sezione di censimento e stato civile. comune di bologna_97. anagrafepopolazioneresidentistatisticastato civile
+Biblioteche comunali. comune di bologna_970.
+Bilancio ambientale - Indicatori. comune di bologna_978.
+Bilancio ambientale - Indicatori. comune di bologna_979.
+Bilancio ambientale - Indicatori. comune di bologna_980.
+MediaLibraryOnLine. comune di bologna_982.
+MediaLibraryOnLine. comune di bologna_983.
+MediaLibraryOnLine. comune di bologna_984.
+MediaLibraryOnLine. comune di bologna_985.
+MediaLibraryOnLine. comune di bologna_986.
+MediaLibraryOnLine. comune di bologna_987.
+MediaLibraryOnLine. comune di bologna_988.
+MediaLibraryOnLine. comune di bologna_989.
+MediaLibraryOnLine. comune di bologna_990.
+MediaLibraryOnLine. comune di bologna_991.
+MediaLibraryOnLine. comune di bologna_992.
+MediaLibraryOnLine. comune di bologna_993.
+MediaLibraryOnLine. comune di bologna_994.
+MediaLibraryOnLine. comune di bologna_995.
+MediaLibraryOnLine. comune di bologna_996.
+Presenze e votazioni. comune di bologna_997.
+Compensi percepiti dalle Elette e dagli Eletti. comune di bologna_998.
+Budget e spese del Consiglio Comunale. comune di bologna_999.
+Adempimenti nei confronti dellâAvcp: Art. 1 L. 190/2012. comune di bologna_datiavcp2013.
+Annuario statistico Cagliari in cifre 2011. comune di cagliari_annuario statistico cagliari in cifre 2011. annuariostatistica
+Atlante demografico di Cagliari 2012. comune di cagliari_atlante demografico di cagliari 2012. popolazionestatisticastranieri
+Bilancio di previsione 2009. comune di cagliari_bilancio di previsione 2009. bilancio
+Bilancio di previsione 2010. comune di cagliari_bilancio di previsione 2010. bilancio
+Bilancio di previsione 2011. comune di cagliari_bilancio di previsione 2011. bilancio
+Rendiconto esercizio 2009. comune di cagliari_rendiconto esercizio 2009. bilancio
+Rendiconto esercizio 2010. comune di cagliari_rendiconto esercizio 2010. bilancio
+Rendiconto esercizio 2011. comune di cagliari_rendiconto esercizio 2011. bilancio
+Imprese per sezione di attivita dal 2009. comune di cesena_1. ateco 2007imprese
+Struttura imprese attive. comune di cesena_10. impresestruttura imprese
+Conducenti femmine per classi d'eta e fascia oraria. comune di cesena_100. conducentietafascia orariafemmineincidenti
+Monumenti. comune di cesena_10044. cartografialuoghi di interesse
+Impianti fotovoltaici pubblici e privati installati. comune di cesena_10066. energia
+Residenti, famiglie e stranieri per sezioni di censimento. comune di cesena_10088. etafamigliapopolazionestranieri
+Stradario. comune di cesena_10096.
+Conducenti maschi per giorno della settimana e fascia oraria. comune di cesena_101. conducentiincidenti
+Impianti solari termici pubblici installati. comune di cesena_10104. energia
+Servizi ed ecocompatibilita scuole. comune di cesena_10105. ecocompatibilitascuola
+Assunzioni per tipo di contratto e sesso. comune di cesena_10106. lavorosessostranieri
+Assunzioni per settore di produzione e sesso. comune di cesena_10107. lavorosesso
+Assunzioni per specifica di contratto di alcune tipologie di lavoro subordinato e sesso. comune di cesena_10120. lavorosesso
+Cessazioni rapporti di lavoro per motivi e sesso. comune di cesena_10121. lavorosesso
+Mobilita urbana. comune di cesena_10142. mobilita
+Trasporto pubblico. comune di cesena_10143. mobilita
+Ecocompatibilita uffici comunali. comune di cesena_10144. ecocompatibilita
+Disoccupati per sesso e fasce d'eta. comune di cesena_10184. etalavorosesso
+Assunzioni per sesso e fasce d'eta. comune di cesena_10188. etalavorosesso
+Conducenti per veicolo e classi d'eta. comune di cesena_102. conducentietaincidentiveicolo
+Incidenti distinti per mese e gravita. comune di cesena_10201. feritigravitaincidentimesemorti
+Anziani con 75 anni o piu - Anno 2012. comune di cesena_10220. anzianiquartieristato civile
+Stranieri suddivisi per sesso e stato civile. comune di cesena_10221. quartierisessostato civilestranieri
+Estratto Bilancio comunale Conto consuntivo: Accertamenti. comune di cesena_10223. bilancio
+Immigrati dal 1936 al 1957. comune di cesena_10240. immigrati
+Estratto Bilancio comunale Previsioni di competenza - Entrate. comune di cesena_10241. bilancio
+Estratto Bilancio comunale Previsioni di competenza - Uscite. comune di cesena_10243. bilancio
+Indicatori demografici. comune di cesena_10244.
+Estratto Bilancio comunale Conto consuntivo - Impegni. comune di cesena_10246. bilancio
+Imprese per macrosettore. comune di cesena_10247. impresemacrosettore
+Stranieri residenti per tempo trascorso dalla data di immigrazione. comune di cesena_10261. popolazionestranieri
+Edilizia e qualita scolstica. comune di cesena_10262. scuola
+Animali d'affezione. comune di cesena_10263. animali
+Popolazione residente - Italiani e Stranieri. comune di cesena_10264. popolazionestranieri
+Aziende agricole per tipologia. comune di cesena_10280. agricolturaallevamentiaziende
+Superficie Agricola Utilizzata, variazione % e relativa SAU media. comune di cesena_10281. agricoltura
+Superficie Agricola Utilizzata per titolo di possesso. comune di cesena_10282. agricoltura
+Aziende agricole e Superficie Agricola Utilizzata per forma giuridica. comune di cesena_10283. agricolturaaziende
+Conducenti per periodo e fascia oraria. comune di cesena_103. conducentifascia orariaincidenti
+Numero aziende e SAU media aziendale per utilizzo del terreno. comune di cesena_10300. agricolturaaziende
+Superficie Agricola Utilizzata per utilizzo del terreno. comune di cesena_10301. agricoltura
+Superficie Agricola Utilizzata a seminativo per tipologia. comune di cesena_10302. agricoltura
+Superficie Agricola Utilizzata a legnose agrarie per tipologia. comune di cesena_10303. agricoltura
+Superficie Agricola Utilizzata a fruttiferi per alcune tipologie. comune di cesena_10320. agricoltura
+Superficie Agricola Utilizzata a fruttiferi per tipologia di coltivazione. comune di cesena_10321. agricoltura
+Superficie Agricola Utilizzata e numero di aziende con coltivazioni biologiche e coltivazioni DOP e Igp, compresa vite per la produzione di vini DOC e DOCG. comune di cesena_10322. agricolturaaziende
+Superficie Agricola Utilizzata per coltivazioni biologiche per utilizzo del terreno. comune di cesena_10323. agricoltura
+Superficie Agricola Utilizzata per coltivazioni DOP e Igp per tipologia di coltivazione. comune di cesena_10324. agricoltura
+Aziende agricole e Superficie Agricola Utilizzata a vite e a vite DOC e DOCG. comune di cesena_10325. agricolturaaziende
+Aziende agricole con allevamenti per tipologia, numero e media di capi. comune di cesena_10340. agricolturaallevamentiaziende
+Aziende agricole per produzione di energia rinnovabile. comune di cesena_10341. agricolturaaziendeenergia
+Aziende agricole e biologiche per classi d'eta del conduttore. comune di cesena_10360. agricolturaaziendeeta
+Aziende agricole per classi d'eta del conduttore. comune di cesena_10361. agricolturaaziendeeta
+Conduttori aziende agricole per sesso. comune di cesena_10362. agricolturasesso
+Aziende agricole biologiche e non per titolo di studio del capo azienda. comune di cesena_10363. agricolturaaziende
+Manodopera in agricoltura per sesso. comune di cesena_10364. agricolturalavorosesso
+Manodopera in agricoltura per tipologia. comune di cesena_10365. agricolturalavoro
+Manodopera non familiare a tempo indeterminato in agricoltura per cittadinanza. comune di cesena_10380. agricolturalavoro
+Manodopera non familiare a tempo determinato in agricoltura per cittadinanza. comune di cesena_10381. agricolturalavoro
+Conducenti per sesso e gravita. comune di cesena_104. feritigravitaincidentisesso
+Aziende agricole biologiche e non per informatizzazione. comune di cesena_10400. agricolturaaziende
+Aziende agricole per tipo di attivita remunerativa connessa all'azienda. comune di cesena_10401. agricolturaaziende
+Matrimoni a Cesena per luogo di nascita degli sposi. comune di cesena_10420. matrimoniopopolazione
+Matrimoni a Cesena per provenienza degli sposi. comune di cesena_10421. matrimoniopopolazione
+Matrimoni a Cesena dal 1936. comune di cesena_10440. matrimoniopopolazione
+Nomi attribuiti ai nati - Anno 2005. comune di cesena_10442. nati
+Nomi attribuiti ai nati - Anno 2006. comune di cesena_10443. nati
+Nati per cittadinanza e sesso. comune di cesena_10444. cittadinanzanatipopolazione
+Movimento, saldo migratorio e tasso di incremento sociale. comune di cesena_10445. emigratiimmigrati
+Nomi attribuiti ai nati - Anno 2004. comune di cesena_10460. nati
+Nomi attribuiti ai nati - Anno 2007. comune di cesena_10461. nati
+Nomi attribuiti ai nati - Anno 2008. comune di cesena_10462. nati
+Nomi attribuiti ai nati - Anno 2009. comune di cesena_10463. nati
+Nomi attribuiti ai nati - Anno 2010. comune di cesena_10464. nati
+Nomi attribuiti ai nati - Anno 2011. comune di cesena_10465. nati
+Nomi attribuiti ai nati - Anno 2012. comune di cesena_10466. nati
+I nomi piu frequenti attribuiti ai nati dal 1998 al 2004. comune di cesena_10471. nati
+Cittadini stranieri immigrati provenienti da altri comuni della provincia di Forli Cesena per cittadinanza. comune di cesena_10472. cittadinanzaimmigratisessostranieri
+Cittadini stranieri immigrati provenienti da paesi esteri diversi dal paese d'origine per cittadinanza. comune di cesena_10473. cittadinanzaimmigratisessostranieri
+Cittadini stranieri irreperibili iscritti in anagrafe per cittadinanza. comune di cesena_10480. cittadinanzaimmigratisessostranieri
+Cittadini stranieri immigrati provenienti dai paesi d'origine per cittadinanza. comune di cesena_10481. cittadinanzaimmigratisessostranieri
+Conducenti maschi e femmine per fascia oraria. comune di cesena_105. conducentifascia orariaincidenti
+Cittadini stranieri immigrati provenienti da altre province italiane per cittadinanza. comune di cesena_10500. cittadinanzaimmigratisessostranieri
+Cittadini stranieri immigrati per cittadinanza. comune di cesena_10501. cittadinanzaimmigratisessostranieri
+Scuola dell'infanzia - Anno scolastico 2011/2012. comune di cesena_10526. quartieriscuolastranieri
+Scuola primaria - Anno scolastico 2011/2012. comune di cesena_10527. quartieriscuolastranieri
+Scuola dell'infanzia - Anno scolastico 2012/2013. comune di cesena_10564. quartieriscuolastranieri
+Scuola primaria - Anno scolastico 2012/2013. comune di cesena_10584. quartieriscuolastranieri
+Scuola Superiore di I grado - Anno scolastico 2012/2013. comune di cesena_10585. quartieriscuolastranieri
+Scuola Superiore di I grado - Anno scolastico 2011/2012. comune di cesena_10586. quartieriscuolastranieri
+Scuola Superiore di II grado - Anno scolastico 2012/2013. comune di cesena_10587. quartieriscuolastranieri
+Scuola Superiore di II grado - Anno scolastico 2011/2012. comune di cesena_10588. quartieriscuolastranieri
+Scuola dell'infanzia - Anno scolastico 2009/2010. comune di cesena_10589. quartieriscuolastranieri
+Incidenti con feriti distinti per ora e giorno della settimana. comune di cesena_106. fascia orariaferitiincidenti
+Scuola dell'infanzia - Anno scolastico 2010/2011. comune di cesena_10604. quartieriscuolastranieri
+Scuola primaria - Anno scolastico 2009/2010. comune di cesena_10605. quartieriscuolastranieri
+Scuola primaria - Anno scolastico 2010/2011. comune di cesena_10624. quartieriscuolastranieri
+Verde pubblico per tipologia. comune di cesena_10625. quartierisuperficieverde pubblico
+Incidenti con feriti distinti per quartiere e anno. comune di cesena_107. feritiincidentiquartieri
+Incidenti con morti o feriti distinti per veicolo e anno. comune di cesena_108. feritiincidentimortiveicolo
+Incidenti con morti distinti per ora e giorno della settimana. comune di cesena_109. fascia orariaincidentimorti
+Variazione percentuale imprese per natura giuridica 2005 2007. comune di cesena_11. impresenatura giuridica
+Incidenti avvenuti sulla SS E/45 distinti per anno e gravita. comune di cesena_110. feritigravitaincidentimorti
+Incidenti avvenuti sulla SS E/45 distinti per periodo e fascia oraria. comune di cesena_111. fascia orariaincidenti
+Persone ferite o morte per km nelle dieci strade piu incidentate. comune di cesena_112. feritiincidentimorti
+Persone ferite o morte per periodo e giorno della settimana. comune di cesena_113. feritiincidentimorti
+Incidenti per tipologia di fondo stradale e gravita. comune di cesena_114. feritifondo stradalegravitaincidentimorti
+Verde pubblico per tipologia. comune di cesena_11452. quartieriverde pubblico
+Incidenti con feriti o morti distinti per giorno della settimana e fascia oraria. comune di cesena_115. fascia orariaferitiincidentimorti
+Fondi assegnati ad ogni quartiere. comune di cesena_11543. bilanciofondiquartieri
+Ovitrappole per zanzare. comune di cesena_11545.
+Fermate ATR - Agenzia per la mobilita. comune di cesena_11584. fermate atr
+Farmacie. comune di cesena_11585. farmacie
+Incidenti suddivisi per giorno della settimana e gravita. comune di cesena_116. feritigravitaincidentimorti
+Residenti nel Comune di Cesena dal 1853. comune di cesena_11624. popolazioneresidenti
+Stranieri residenti per tempo trascorso dalla data di immigrazione. comune di cesena_11644. popolazionestranieri
+Impianti sportivi comunali. comune di cesena_11685.
+Incidenti con feriti o morti distinti per giorno della settimana e fascia oraria, considerando le ore 6:00 come spartiacque tra le giornate. comune di cesena_117. fascia orariaferitiincidentimorti
+Popolazione residente suddivisa per eta e per sesso. comune di cesena_11725. etapopolazioneresidentisesso
+Incidenti avvenuti nell'intersezione Viale Bovio e Viale Angeloni. comune di cesena_118. feritigravitaincidentimorti
+Unita locali suddivise per classi di addetti. comune di cesena_11864. classe di addetti
+Ecocompatibilita uffici comunali. comune di cesena_11865. ecocompatibilita
+Esercizi commerciali. comune di cesena_11866.
+Impianti fotovoltaici pubblici e privati installati. comune di cesena_11867. energia
+Impianti solari termici pubblici installati. comune di cesena_11884. energia
+Nati per cittadinanza e sesso. comune di cesena_11885. cittadinanzanatisesso
+Incidenti avvenuti nell'intersezione Viale Oberdan, Corso Cavour e Viale Bovio. comune di cesena_119. feritigravitaincidentimorti
+Famiglie per numero di componenti. comune di cesena_11924. famigliapopolazionequartieri
+Popolazione residente per classi d'eta e sesso. comune di cesena_11927. etapopolazionequartieriresidentisesso
+Matrimoni a Cesena per condizione professionale e non professionale degli sposi. comune di cesena_11930. matrimoniopopolazione
+Matrimoni a Cesena per ramo di attivita degli sposi. comune di cesena_11945. matrimoniopopolazione
+Matrimoni a Cesena in comunione dei beni secondo la posizione nella professione degli sposi. comune di cesena_11947. matrimoniopopolazione
+Matrimoni a Cesena in separazione dei beni secondo la posizione nella professione degli sposi. comune di cesena_11949. matrimoniopopolazione
+Matrimoni a Cesena per titolo di studio degli sposi. comune di cesena_11951. matrimoniopopolazione
+Fornitura acqua. comune di cesena_11984. acqua
+Variazione percentuale imprese per natura giuridica dal 2008. comune di cesena_12. impresenatura giuridica
+Incidenti avvenuti nell'intersezione Viale Oberdan, Via Costa, Viale Marconi, Via del Mare, Via Veneto e Via Roncofreddo. comune di cesena_120. feritigravitaincidentimorti
+Impiego fondi assegnati ai quartieri. comune di cesena_12084. bilanciofondiquartieri
+Quote del verde pubblico per superficie e popolazione. comune di cesena_12086. quartieriverde pubblico
+Incidenti avvenuti nell'intersezione Viale Marconi, Via Da Verazzano e Via Lucania. comune di cesena_121. feritigravitaincidentimorti
+Deceduti per eta e sesso. comune di cesena_12164. etamortisesso
+Raccolta differenziata a recupero per tipologia. comune di cesena_12187. rifiuti
+Raccolta differenziata a smaltimento per tipologia. comune di cesena_12188. rifiuti
+Raccolta rifiuti. comune di cesena_12189. rifiuti
+Incidenti avvenuti nell'intersezione Viale Matteotti, Via Savio e Viale Gramsci. comune di cesena_122. feritigravitaincidentimorti
+Raccolta rifiuti indifferenziati per tipologia. comune di cesena_12204. rifiuti
+Deceduti per luogo del decesso e sesso. comune di cesena_12265. mortisesso
+Scuola primaria. comune di cesena_12285. quartieriscuolastranieri
+Scuola dell'Infanzia. comune di cesena_12287. quartieriscuolastranieri
+Incidenti avvenuti nell'intersezione Via Madonna dello Schioppo, Via Ravennate e Via Cavalcavia. comune di cesena_123. feritigravitaincidentimorti
+Scuola Secondaria di I grado. comune di cesena_12304. quartieriscuolastranieri
+Scuola Secondaria di II grado. comune di cesena_12317. scuolastranieri
+Iniziative pubbliche. comune di cesena_12319. quartieri
+Esercizi commerciali per quartiere. comune di cesena_12320. quartieri
+Incidenti avvenuti nell'intersezione Viale Europa, Via Rasi e Spinelli, Viale Bovio e Via Cavalcavia . comune di cesena_124. feritigravitaincidentimorti
+Iscritti Scuola Primaria dal 1952 al 2003. comune di cesena_12465. scuolastranieri
+Incidenti avvenuti nell'intersezione Ponte del Risorgimento, Via IV Novembre, Via Battisti e Via Zuccherificio. comune di cesena_125. feritigravitaincidentimorti
