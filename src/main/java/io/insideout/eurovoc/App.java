@@ -1,6 +1,8 @@
 package io.insideout.eurovoc;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
+import com.typesafe.config.Config;
+import com.typesafe.config.ConfigFactory;
 import io.insideout.eurovoc.http.models.ApiResponse;
 import io.insideout.eurovoc.http.models.Resource;
 import io.insideout.eurovoc.http.models.Result;
@@ -22,8 +24,7 @@ import java.net.URLEncoder;
 public class App {
 
     // configuration parameters.
-    private final static String APP_KEY = "0TXra10uOs99R680MizxcfUN93HrbUAbab4f9553";
-    private final static String ANALYSIS_NAME = "eurovoc";
+    private String analysisName;
 
     // CKAN base URL.
     private final static String CKAN_URL = "http://www.dati.gov.it/catalog/api/action";
@@ -58,7 +59,11 @@ public class App {
     }
 
     public App() {
-        analysis = RedLinkFactory.getInstance().createAnalysisClient(APP_KEY);
+        final Config configuration = ConfigFactory.load();
+        final String applicationKey = configuration.getString("redlink.application_key");
+        analysisName = configuration.getString("redlink.analysis_name");
+
+        analysis = RedLinkFactory.getInstance().createAnalysisClient(applicationKey);
         // create a request builder, which in turn will make requests to Redlink.
         requestBuilder = new AnalysisRequest.AnalysisRequestBuilder();
     }
@@ -167,7 +172,7 @@ public class App {
 
         logger.debug(content);
 
-        final AnalysisRequest request = requestBuilder.setAnalysis(ANALYSIS_NAME).setContent(content).build();
+        final AnalysisRequest request = requestBuilder.setAnalysis(analysisName).setContent(content).build();
         final Enhancements enhancements = analysis.enhance(request);
 
 //        for (final String language : enhancements.getLanguages()) {
